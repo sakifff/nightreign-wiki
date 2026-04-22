@@ -6,7 +6,6 @@ import { useGlobalSearch } from './hooks/useSearch'
 import Home from './pages/Home'
 import Talismans from './pages/Talismans'
 import Relics from './pages/Relics'
-import DormantPowers from './pages/DormantPowers'
 import Consumables from './pages/Consumables'
 import Characters from './pages/Characters'
 import CharacterDetail from './pages/CharacterDetail'
@@ -28,7 +27,6 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/talismans" element={<Talismans />} />
           <Route path="/relics" element={<Relics />} />
-          <Route path="/dormant-powers" element={<DormantPowers />} />
           <Route path="/consumables" element={<Consumables />} />
           <Route path="/characters" element={<Characters />} />
           <Route path="/characters/:name" element={<CharacterDetail />} />

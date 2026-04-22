@@ -5,8 +5,7 @@ import { useData } from '../hooks/useData'
 const links = [
   { to: '/', label: 'Home', exact: true },
   { to: '/talismans', label: 'Talismans' },
-  { to: '/relics', label: 'Relics' },
-  { to: '/dormant-powers', label: 'Dormant Powers' },
+  { to: '/relics', label: 'Relics/Passives/Dormant' },
   { to: '/consumables', label: 'Consumables' },
   { to: '/characters', label: 'Characters' },
   { to: '/bosses', label: 'Bosses' },

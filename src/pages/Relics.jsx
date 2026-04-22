@@ -180,7 +180,7 @@ export default function Relics() {
   return (
     <div>
       <div className="page-header">
-        <h1 className="page-title">Relics & Passives</h1>
+        <h1 className="page-title">Relics / Passives / Dormant Powers</h1>
         <p className="page-subtitle">Relic effects, weapon passives, deep variants, and dormant powers</p>
       </div>
 
