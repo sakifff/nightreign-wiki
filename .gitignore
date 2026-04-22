@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Claude Code settings (local only)
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large raw data files (keep only the pipeline-ready copy)
+data/
+
+# Archive folder can get large — only keep current raw file in repo
+pipeline/data/archive/
