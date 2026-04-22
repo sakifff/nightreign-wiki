@@ -15,7 +15,7 @@ const SOURCE_LABELS = {
 
 const CHARACTERS = ['Wylder', 'Guardian', 'Ironeye', 'Duchess', 'Raider', 'Revenant', 'Recluse', 'Executor', 'Scholar', 'Undertaker']
 const RELIC_CATEGORIES = ['Stat', 'Offensive', 'Defensive', 'Regen', 'Exploration', 'Character', 'Start of game', 'Curse']
-const DORMANT_CATEGORIES = ['Stat', 'Offensive', 'Defensive', 'Regen', 'Exploration']
+const DORMANT_CATEGORIES = ['Stat', 'Offensive', 'Defensive', 'Regen', 'Exploration', 'Curse']
 
 const relicColumns = [
   {
@@ -87,6 +87,7 @@ const dormantColumns = [
         Defensive: 'bg-green-900/40 text-green-400',
         Regen: 'bg-emerald-900/40 text-emerald-400',
         Exploration: 'bg-purple-900/40 text-purple-400',
+        Curse: 'bg-zinc-800 text-zinc-400',
       }
       return <span className={`badge ${colors[cat] || 'bg-zinc-700 text-zinc-300'}`}>{cat}</span>
     },
