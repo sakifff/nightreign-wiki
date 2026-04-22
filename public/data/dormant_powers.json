@@ -1,0 +1,442 @@
+[
+  {
+    "category": "Stat",
+    "name": "Increased Maximum HP",
+    "description_ingame": "Maximum HP raised",
+    "effect": "Increases maximum HP by 1.1x / 1.15x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Stat",
+    "name": "Increased Maximum FP",
+    "description_ingame": "Maximum FP raised",
+    "effect": "Increases maximum FP by 1.1x / 1.15x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Stat",
+    "name": "Reduced FP Consumption",
+    "description_ingame": "Lowers FP consumption",
+    "effect": "Lowers FP cost of skills, spells, and consumables by 0.9x / 0.85x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Stat",
+    "name": "Increased Maximum Stamina",
+    "description_ingame": "Maximum stamina raised",
+    "effect": "Increases maximum stamina by 1.1x / 1.15x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Exploration",
+    "name": "More Runes From Defeated Enemies",
+    "description_ingame": "Increases runes obtained from defeated enemies",
+    "effect": "Increases rune gain by 1.1x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Exploration",
+    "name": "Integration of Intelligence",
+    "description_ingame": "Attacks obtain a great amount of runes from enemies on rare occasions",
+    "effect": "Has a chance to gain 10,000 runes from killing enemies",
+    "stackable": "No",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Improved Physical Attack Power",
+    "description_ingame": "Raises physical attack",
+    "effect": "Increases physical damage by 1.06x / 1.09x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Improved Affinity Attack Power",
+    "description_ingame": "Raises attacks of magic, fire, lightning, holy affinities",
+    "effect": "Increases magic, fire, lightning, and holy damage by 1.05x / 1.08x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Improved Perfuming Arts",
+    "description_ingame": "Raises potency of items employing perfume",
+    "effect": "Increases the damage of perfume items by 1.2x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Improved Throwing Pots",
+    "description_ingame": "Raises potency of throwing pots",
+    "effect": "Increases the damage of pot items by 1.2x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Improved Roar & Breath Attacks",
+    "description_ingame": "Enhances roars and breath attacks",
+    "effect": "Increases the damage of roar and breath attacks by 1.2x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Improved Sorceries & Incantations",
+    "description_ingame": "Raises potency of sorceries and incantations",
+    "effect": "Increases the damage of sorceries and incantations by 1.07x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Sudden Enemy Death upon Attacks that Land",
+    "description_ingame": "Attacked enemies die regardless of remaining HP on rare occasions",
+    "effect": "Has a chance to instantly kill enemies with each hit",
+    "stackable": "No",
+    "notes": "Each enemy has an HP threshold, refer to this sheet for more information"
+  },
+  {
+    "category": "Offensive",
+    "name": "Periodical Giant Glintblades",
+    "description_ingame": "Creates a glintblade which automatically attack nearby foes at regular intervals",
+    "effect": "Creates 3 giant glintblades every 18s. 100 magic attack and 10.175 poise damage per blade",
+    "stackable": "No",
+    "notes": "Not affected by Glintblade sorcery buffs"
+  },
+  {
+    "category": "Offensive",
+    "name": "Attack Boost [Dragons]",
+    "description_ingame": "Enhances attacks against dragons",
+    "effect": "Increases damage towards Draconic enemies by 1.1x and Ancient Draconic enemies by 1.05x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Attack Boost [Lifeforms Born of Falling Stars]",
+    "description_ingame": "Enhances attacks against blockers lifeforms born of falling stars",
+    "effect": "Increases damage towards Lifeforms Born of Falling Stars by 1.2x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Attack Boost [Those Who Live in Death]",
+    "description_ingame": "Enhances attacks against Those Who Live in Death",
+    "effect": "Increases damage towards Those Who Live in Death by 1.2x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Communion Grants Anti-Dragon Effect",
+    "description_ingame": "Dragon Communion incantations add anti-dragon effect to right hand armament",
+    "effect": "Increases damage towards Ancient Draconic enemies by 1.2x and Draconic enemies by 1.3x for 45 seconds",
+    "stackable": "No",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Blood Loss in Vicinity Increases Attack Power",
+    "description_ingame": "Nearby blood loss increases attack power",
+    "effect": "Increases damage by 1.2x for 20 seconds when bleed is activated",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Damage Boosted after Critical Hit",
+    "description_ingame": "Critical hits increase damage inflicted upon enemies",
+    "effect": "Decreases enemy damage negation by 15% for 30 seconds",
+    "stackable": "No",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Critical Hits Inflict Blood Loss",
+    "description_ingame": "Armament inflicts blood loss when performing critical hits",
+    "effect": "Adds 50 blood loss buildup to the weapon after critical hits",
+    "stackable": "No",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Improved Thrusting Counterattack",
+    "description_ingame": "Enhances counterattacks unique to thrusting weapons",
+    "effect": "Increases counterhit damage by 1.2x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Improved Stance-Breaking",
+    "description_ingame": "Attacks more likely to break stance of enemies",
+    "effect": "Increases poise damage by 1.1x / 1.15x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Increased Sorcery & Incantation Duration",
+    "description_ingame": "Extends spell effect duration",
+    "effect": "Increases the duration of buff spells by 2x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Traces of a Grace-Given Lord",
+    "description_ingame": "Newly found Sites of Grace raise attack power",
+    "effect": "Increases attack power by 1.02x for each grace discovered. Stacks up to 10 times (1.2189x total)",
+    "stackable": "-",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Demon's Plating",
+    "description_ingame": "Enhances attack power depending on runes in possession",
+    "effect": "Increases damage by 1.2x at 50k runes, 1.3x at 100k, 1.9x at 900k, and 3x at 2mil",
+    "stackable": "-",
+    "notes": "Demon's Plating Information"
+  },
+  {
+    "category": "Offensive",
+    "name": "Favor of Noklateo, the Shrouded City",
+    "description_ingame": "Rise from near-death, unaided, a single time and become more powerful for a short time",
+    "effect": "After being revived:\nIncreases HP, FP, and stamina by 1.3x for 40 seconds\nRegen 5% of your max HP per second for 10 seconds\n~3x faster ultimate art charge for 10 seconds",
+    "stackable": "-",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Power to Balance the World",
+    "description_ingame": "Rise from near-death unaided on occasion. Attack power increases after rising from death.",
+    "effect": "After being revived, increases damage by 1.1x for 45 seconds",
+    "stackable": "-",
+    "notes": null
+  },
+  {
+    "category": "Offensive\nDefensive",
+    "name": "Favor of the Mountaintop",
+    "description_ingame": "Halves frostbite damage and frost buildup. Nearby frostbite boosts attack.",
+    "effect": "Reduces frostbite damage and incoming frostbite buildup by 0.5x\nIncreases damage by 1.15x when frostbite procs for 20 seconds",
+    "stackable": "-",
+    "notes": null
+  },
+  {
+    "category": "Defensive",
+    "name": "Improved Physical Damage Negation",
+    "description_ingame": "Boosts physical damage negation",
+    "effect": "Increases physical damage negation by 12% / 18%",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Defensive",
+    "name": "Improved Non-Physical Damage Negation",
+    "description_ingame": "Boosts magic, fire, lightning, and holy damage negation",
+    "effect": "Increases magic, fire, lightning, and holy damage negation by 12% / 18%",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Defensive",
+    "name": "Creates Holy Ground at Low HP",
+    "description_ingame": "At low HP, create holy ground, slowly restore HP, and improve damage negation",
+    "effect": "Creates a holy ground when HP is below 20%. Heals for 10 hp/s and increases all damage negation by 20%. Lasts for 35 seconds.",
+    "stackable": "No",
+    "notes": null
+  },
+  {
+    "category": "Defensive",
+    "name": "Improved Poise",
+    "description_ingame": "Raises poise",
+    "effect": "Reduces incoming poise damage by 0.75x / 0.62x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Defensive",
+    "name": "All Resistances Up",
+    "description_ingame": "Raises resistance to all ailments",
+    "effect": "Increases status resistance by 57 / 75",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Defensive",
+    "name": "Improved Dodging",
+    "description_ingame": "Longer invincibility windows during evasive maneuvers",
+    "effect": "+3 iFrames to all dodges in 30FPS or +6 iFrames in 60FPS.  Adds +1 iFrame to Duchess backstep in 30FPS or +2 in 60FPS",
+    "stackable": "No",
+    "notes": "Does not stack with itself, Crucible Feather Talisman, or the Recluse's triple Lightning cocktail"
+  },
+  {
+    "category": "Defensive",
+    "name": "Cold Mirage",
+    "description_ingame": "Conceals oneself when faced with threats to life, neutralizing all attacks",
+    "effect": "Turns you invisible at low HP, making you immune to all attacks for a short duration (duration currently unknown)",
+    "stackable": "-",
+    "notes": null
+  },
+  {
+    "category": "Defensive/Regen",
+    "name": "Favor of the Rotten Woods",
+    "description_ingame": "Nullifies scarlet rot and increases max HP. Attacks after receiving damage partially recover HP.",
+    "effect": "Increases maximum HP by 1.25x and attacks heal the user after taking damage for a short period of time",
+    "stackable": "-",
+    "notes": null
+  },
+  {
+    "category": "Regen",
+    "name": "HP Restoration upon Successive Attacks",
+    "description_ingame": "Successive attacks restore HP",
+    "effect": "Restores 3 HP on continuous attacks",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Regen",
+    "name": "FP Restoration upon Successive Attacks",
+    "description_ingame": "Successive attacks restore FP",
+    "effect": "Restores 10 FP on continuous attacks",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Regen",
+    "name": "HP Recovery From Successful Guarding",
+    "description_ingame": "Successful guards restore HP",
+    "effect": "Restores 2 HP after guarding an attack",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Regen",
+    "name": "FP Recovery From Successful Guarding",
+    "description_ingame": "Successful guards restore FP",
+    "effect": "Restores 2 FP after guarding an attack",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Regen",
+    "name": "Critical Hit HP Restoration",
+    "description_ingame": "Critical hits restore HP",
+    "effect": "Restores [MaxHP * 0.18] HP on critical hits",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Regen",
+    "name": "Critical Hit FP Restoration",
+    "description_ingame": "Critical hits restore FP",
+    "effect": "Restores [MaxFP * 0.1] FP on critical hits",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Regen",
+    "name": "Improved Flask HP Restoration",
+    "description_ingame": "Boosts HP restoration from flasks",
+    "effect": "Increases HP gained from flasks by 1.2x / 1.3x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Regen",
+    "name": "Gradual Restoration by Flask",
+    "description_ingame": "Flask slowly restores HP and provides increased HP restoration",
+    "effect": "Restores a small portion of HP + [MaxHP * 0.01] every 0.1s for 8 seconds (80% total)",
+    "stackable": "No",
+    "notes": "When wearing \"Flask Also Heals Allies,\" allies restore [MaxHP * 0.01] every 0.1s for 4 seconds (40% total)"
+  },
+  {
+    "category": "Regen",
+    "name": "Poison & Rot Trigger Continuous HP Recovery",
+    "description_ingame": "Poisoning or Scarlet Rot in vicinity continuously restores HP",
+    "effect": "Restores 7 HP/s for 20 seconds after poison or rot is activated",
+    "stackable": null,
+    "notes": null
+  },
+  {
+    "category": "Regen",
+    "name": "Improved Stamina Recovery",
+    "description_ingame": "Raises stamina recovery speed",
+    "effect": "Increases stamina recovery by 4/s / 6/s",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Regen",
+    "name": "Ultimate Art Guage Charge Speed Up",
+    "description_ingame": "Improves the charging speed of Ultimate Art gauge",
+    "effect": "Increases passive Ultimate Art gauge charge by 1.06x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Regen",
+    "name": "Character Skill Cooldown Reduction",
+    "description_ingame": "Shortens Character Skill cooldown time",
+    "effect": "Lowers character skill cooldown by 0.9x",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Regen",
+    "name": "Favor of the Night",
+    "description_ingame": "Improves the charging speed of Ultimate Art gauge",
+    "effect": "Permanently increases passive ult gauge regeneration by 1",
+    "stackable": "-",
+    "notes": null
+  },
+  {
+    "category": "Regen",
+    "name": "Unifying Fate",
+    "description_ingame": "Using flask also restores FP",
+    "effect": "",
+    "stackable": "No",
+    "notes": "Amount of FP recovered is unknown"
+  },
+  {
+    "category": "Regen",
+    "name": "Beast's Hunt",
+    "description_ingame": "Successive attacks restore stamina and hasten stamina recovery for self and nearby allies",
+    "effect": "Recovers 15 stamina on successive attacks and increases stamina regen for self and allies by 5/s for 15 seconds",
+    "stackable": null,
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Traces of Grace-Given Lord",
+    "description_ingame": null,
+    "effect": "Newly found Sites of Grace raise attack power by ~2% each, max 10 stacks. This effect is acquired by defeating the Fell Omen during the Morgott Invasion Event.",
+    "stackable": "No",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Favor of the Rotted Woods",
+    "description_ingame": null,
+    "effect": "Nullifies scarlet rot and increases max HP. Attacks after receiving damage partially recover HP. Acquired by interacting with the Red Flower found during the Shifting Earth: Rotted Woods.",
+    "stackable": "No",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "name": "Unhealed Wound Carved by the Night",
+    "description_ingame": null,
+    "effect": "Increases damage taken by 20%. This effect is acquired when the targetted player die to the Fell Omen during the Morgott Invasion Event.",
+    "stackable": "TBD",
+    "notes": null
+  }
+]

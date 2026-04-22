@@ -1,0 +1,374 @@
+[
+  {
+    "name": "Ancestral Spirit's Horn",
+    "effect_ingame": "Defeating enemies restores FP",
+    "effect": "Restores 5% of max FP when an enemy is killed",
+    "notes": null
+  },
+  {
+    "name": "Arrow's Reach Talisman",
+    "effect_ingame": "Projectile damage drop-off reduced",
+    "effect": "Increases bowDistRate by 50",
+    "notes": null
+  },
+  {
+    "name": "Arrow's Sting Talisman",
+    "effect_ingame": "Improved ranged weapon attacks",
+    "effect": "Increases arrow / bolt damage by 1.14x",
+    "notes": null
+  },
+  {
+    "name": "Assassin's Cerulean Dagger",
+    "effect_ingame": "Critical hit FP restoration",
+    "effect": "Restores 10% of max FP on critical hits",
+    "notes": null
+  },
+  {
+    "name": "Assassin's Crimson Dagger",
+    "effect_ingame": "Critical hit HP restoration",
+    "effect": "Restores 18% of max FP on critical hits",
+    "notes": null
+  },
+  {
+    "name": "Axe Talisman",
+    "effect_ingame": "Improved charge attacks",
+    "effect": "Increases charged heavy damage by 1.12x",
+    "notes": null
+  },
+  {
+    "name": "Blessed Dew Talisman",
+    "effect_ingame": "Continuous HP recovery",
+    "effect": "Increases HP recovery by 2/s",
+    "notes": null
+  },
+  {
+    "name": "Blue-Feathered Branchsword",
+    "effect_ingame": "Improved damage negation at low HP",
+    "effect": "Increases damage negation by 40% when HP is below 40%",
+    "notes": null
+  },
+  {
+    "name": "Boltdrake Talisman",
+    "effect_ingame": "Improved lightning damage negation",
+    "effect": "Increases lightning damage negation by 20%",
+    "notes": null
+  },
+  {
+    "name": "Bull-Goat's Talisman",
+    "effect_ingame": "Improved poise",
+    "effect": "Decreases incoming poise damage by 0.75x",
+    "notes": null
+  },
+  {
+    "name": "Carian Filgreed Crest",
+    "effect_ingame": "Reduced skill FP cost",
+    "effect": "Reduces FP cost of skills by 0.75x",
+    "notes": null
+  },
+  {
+    "name": "Cerulean Amber Medallion",
+    "effect_ingame": "Increased maximum FP",
+    "effect": "Increases FP by 1.12x",
+    "notes": null
+  },
+  {
+    "name": "Clarifying Horn Charm",
+    "effect_ingame": "Improved sleep and madness resistance",
+    "effect": "Increases sleep and madness resist by 75",
+    "notes": null
+  },
+  {
+    "name": "Claw Talisman",
+    "effect_ingame": "Improved jump attacks",
+    "effect": "Increases jump attack damage by 1.12x",
+    "notes": null
+  },
+  {
+    "name": "Companion Jar",
+    "effect_ingame": "Improved throwing pots",
+    "effect": "Increases damage of pots by 1.2x",
+    "notes": null
+  },
+  {
+    "name": "Crimson Amber Medallion",
+    "effect_ingame": "Increased maximum HP",
+    "effect": "Increases HP by 1.12x",
+    "notes": null
+  },
+  {
+    "name": "Crimson Seed Talisman",
+    "effect_ingame": "Improved flask HP restoration",
+    "effect": "Increases HP gained from flasks by 1.2x",
+    "notes": null
+  },
+  {
+    "name": "Crucible Feather Talisman",
+    "effect_ingame": "Improved dodging and impaired damage negation",
+    "effect": "+3 iFrames to all dodges in 30FPS or +6 iFrames in 60FPS.  Adds +1 iFrame to Duchess backstep in 30FPS or +2 in 60FPS",
+    "notes": "Does not stack with Improved Dodge Dormant Power or the Recluse's triple Lightning cocktail"
+  },
+  {
+    "name": "Curved Sword Talisman",
+    "effect_ingame": "Improved guard counters",
+    "effect": "Increases guard counter damage by 1.2x",
+    "notes": null
+  },
+  {
+    "name": "Dagger Talisman",
+    "effect_ingame": "Improved critical hits",
+    "effect": "Increases critical damage by 1.24x",
+    "notes": null
+  },
+  {
+    "name": "Dragoncrest Shield Talisman",
+    "effect_ingame": "Improved damage negation",
+    "effect": "Increases physical damage negation by 15%",
+    "notes": null
+  },
+  {
+    "name": "Erdtree's Favor",
+    "effect_ingame": "Increased maximum HP, increased maximum stamina",
+    "effect": "Increases HP and stamina by 1.07x",
+    "notes": null
+  },
+  {
+    "name": "Faithful's Canvas Talisman",
+    "effect_ingame": "Improved incantations",
+    "effect": "Increases damage of incantations by 1.11x",
+    "notes": null
+  },
+  {
+    "name": "Fire Scorpion Charm",
+    "effect_ingame": "Improved fire attack power and impaired physical damage negation",
+    "effect": "Increases fire damage by 1.15x and decreases physical damage negation by 10%",
+    "notes": null
+  },
+  {
+    "name": "Flamedrake Talisman",
+    "effect_ingame": "Improved fire damage negation",
+    "effect": "Increases fire damage negation by 20%",
+    "notes": null
+  },
+  {
+    "name": "Godfrey Icon",
+    "effect_ingame": "Improved charged spells and skills",
+    "effect": "Increases charged skill and spell damage by 1.18x",
+    "notes": null
+  },
+  {
+    "name": "Godskin Swaddling Cloth",
+    "effect_ingame": "Successive attack HP restoration",
+    "effect": "Restores 6% of max HP with continuous attacks",
+    "notes": null
+  },
+  {
+    "name": "Gold Scarab",
+    "effect_ingame": "More runes from defeated enemies",
+    "effect": "Increases rune gain by 15%",
+    "notes": null
+  },
+  {
+    "name": "Graven-School Talisman",
+    "effect_ingame": "Improved sorceries",
+    "effect": "Increases damage of sorceries by 1.11x",
+    "notes": null
+  },
+  {
+    "name": "Greatshield Talisman",
+    "effect_ingame": "Improved guarding ability",
+    "effect": "Decreases incoming stamina damage when guarding by 0.8x",
+    "notes": null
+  },
+  {
+    "name": "Green Turtle Talisman",
+    "effect_ingame": "Improved stamina recovery",
+    "effect": "Increases stamina regen by 8/s",
+    "notes": null
+  },
+  {
+    "name": "Haligdrake Talisman",
+    "effect_ingame": "Improved holy damage negation",
+    "effect": "Increases holy damage negation by 20%",
+    "notes": null
+  },
+  {
+    "name": "Hammer Talisman",
+    "effect_ingame": "Improved guard breaking",
+    "effect": "Increases stamina damage by 1.5x",
+    "notes": "Only relevant for enemies with a shield"
+  },
+  {
+    "name": "Immunizing Horn Charm",
+    "effect_ingame": "Improved poison and rot resistance",
+    "effect": "Increases poison and rot resist by 75",
+    "notes": null
+  },
+  {
+    "name": "Kindred of Rot's Exultation",
+    "effect_ingame": "Poison & rot improves attack power",
+    "effect": "Increases damage by 1.2x for 20 seconds when poison or rot is triggered within 7m",
+    "notes": null
+  },
+  {
+    "name": "Lightning Scorpion Charm",
+    "effect_ingame": "Improved lightning attack power and impaired physical damage negation",
+    "effect": "Increases lightning damage by 1.15x and decreases physical damage negation by 0.9x",
+    "notes": null
+  },
+  {
+    "name": "Lord of Blood's Exultation",
+    "effect_ingame": "Blood loss in vicinity increases attack power",
+    "effect": "Increases damage by 1.2x for 20 seconds when bleed is triggered within 7m",
+    "notes": null
+  },
+  {
+    "name": "Magic Scorpion Charm",
+    "effect_ingame": "Improved magic attack power and impaired physical damage negation",
+    "effect": "Increases magic damage by 1.15x and decreases physical damage negation by 0.9x",
+    "notes": null
+  },
+  {
+    "name": "Millicent's Prosthesis",
+    "effect_ingame": "Improved dexterity and successive attacks boost attack power",
+    "effect": "Increases dexterity by 5 and increases damage by 1.04x/1.06x/1.11x/1.11x with continuous attacks",
+    "notes": "Most spells do not trigger. Bows cannot trigger"
+  },
+  {
+    "name": "Mottled Necklace",
+    "effect_ingame": "Improved poison, rot, blood loss, frost, sleep, and madness resistance",
+    "effect": "Increases poison, rot, blood loss, frost, sleep, and madness resist by 40",
+    "notes": null
+  },
+  {
+    "name": "Old Lord's Talisman",
+    "effect_ingame": "Extended spell duration",
+    "effect": "Increases duration of spell buffs by 1.3x",
+    "notes": null
+  },
+  {
+    "name": "Pearldrake Talisman",
+    "effect_ingame": "Improved non-physical damage negation",
+    "effect": "Increases magic/fire/lightning/holy damage negation by 10%",
+    "notes": null
+  },
+  {
+    "name": "Perfumer's Talisman",
+    "effect_ingame": "Improved performing arts",
+    "effect": "Increases damage of perfumes by 1.2x",
+    "notes": null
+  },
+  {
+    "name": "Primal Glintstone Blade",
+    "effect_ingame": "Reduced spell FP cost and maximum HP down",
+    "effect": "Decreases spell FP cost by 0.75x and decreases max HP by 0.94x",
+    "notes": null
+  },
+  {
+    "name": "Prince of Death's Pustule",
+    "effect_ingame": "Improved deathblight resistance",
+    "effect": "Increases deathblight resist by 75",
+    "notes": null
+  },
+  {
+    "name": "Radagon Icon",
+    "effect_ingame": "Improved spell casting speed",
+    "effect": "Increases vdex by 60",
+    "notes": null
+  },
+  {
+    "name": "Red-Feathered Branchsword",
+    "effect_ingame": "Improved attack power at low HP",
+    "effect": "Increases damage by 1.2x when HP is below 20%",
+    "notes": null
+  },
+  {
+    "name": "Ritual Shield Talisman",
+    "effect_ingame": "Improved damage negation at full HP",
+    "effect": "Increases damage negation by 30% when HP is at 100%",
+    "notes": null
+  },
+  {
+    "name": "Ritual Sword Talisman",
+    "effect_ingame": "Improved attack power at full HP",
+    "effect": "Increases damage by 1.1x when HP is at 100%",
+    "notes": null
+  },
+  {
+    "name": "Roar Medallion",
+    "effect_ingame": "Improved roar & breath attacks",
+    "effect": "Increased damage of roar and breath attacks by 1.2x",
+    "notes": null
+  },
+  {
+    "name": "Sacred Scorpion Charm",
+    "effect_ingame": "Improved holy attack power and impaired physical damage negation",
+    "effect": "Increases holy damage by 1.15x and decreases physical damage negation by 10%",
+    "notes": null
+  },
+  {
+    "name": "Sacrificial Twig",
+    "effect_ingame": "No rune loss or level down upon death",
+    "effect": "Self-explanatory",
+    "notes": null
+  },
+  {
+    "name": "Silver Scarab",
+    "effect_ingame": "Improved item discovery",
+    "effect": "Increases discovery by 40",
+    "notes": null
+  },
+  {
+    "name": "Spear Talisman",
+    "effect_ingame": "Improved thrusting counterattack",
+    "effect": "Increases counterhit damage by 1.2x",
+    "notes": null
+  },
+  {
+    "name": "Spelldrake Talisman",
+    "effect_ingame": "Improved magic damage negation",
+    "effect": "Increases magic damage negation by 20%",
+    "notes": null
+  },
+  {
+    "name": "Stalwart Horn Charm",
+    "effect_ingame": "Improved blood loss and frost resistance",
+    "effect": "Increases blood loss and frost resist by 75",
+    "notes": null
+  },
+  {
+    "name": "Symbol of Avarice",
+    "effect_ingame": "Improved item discovery, more runes from defeated enemies, and continuous HP loss",
+    "effect": "Increases discovery by 60, increases rune gain by 20%, decreases HP by 10/s",
+    "notes": null
+  },
+  {
+    "name": "Taker's Cameo",
+    "effect_ingame": "Defeating enemies restores HP",
+    "effect": "Restores 6% of max HP when an enemy is killed",
+    "notes": null
+  },
+  {
+    "name": "Twinblade Talisman",
+    "effect_ingame": "Improved chain attack finishers",
+    "effect": "Increases damage by 1.15x with the final light attack in a chain",
+    "notes": null
+  },
+  {
+    "name": "Viridian Amber Medallion",
+    "effect_ingame": "Increased maximum stamina",
+    "effect": "Increases stamina by 1.12x",
+    "notes": null
+  },
+  {
+    "name": "Warrior Jar Shard",
+    "effect_ingame": "Improved skill attack power",
+    "effect": "Increases damage of skills by 1.15x",
+    "notes": null
+  },
+  {
+    "name": "Winged Sword Insignia",
+    "effect_ingame": "Successive attacks boost attack power",
+    "effect": "Increases damage by 1.03x/1.05x/1.1x/1.1x with continuous attacks",
+    "notes": "Most spells do not trigger. Bows cannot trigger"
+  }
+]

@@ -30,7 +30,7 @@ venv/
 Thumbs.db
 
 # Large raw data files (keep only the pipeline-ready copy)
-data/
+/data/
 
 # Archive folder can get large — only keep current raw file in repo
 pipeline/data/archive/

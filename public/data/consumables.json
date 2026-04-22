@@ -1,0 +1,275 @@
+[
+  {
+    "name": "Acid Spraymist",
+    "effect_ingame": "Releases acidic mist and lowers attack",
+    "effect": "Decreases enemy physical damage dealt by 0.85x",
+    "duration": "60s",
+    "notes": null
+  },
+  {
+    "name": "All boluses",
+    "effect_ingame": "Alleviates \"x\" status and cures \"x\"",
+    "effect": "Sets buildup to 0 and permanently increases status resist by 3 (sleep, madness, death) / 4 (poison, blood loss, frost) \nRecovers [MaxHP * 0.005] + 1 HP/s for 20 seconds",
+    "duration": "Infinite",
+    "notes": "Resistance buff caps at 10 usages"
+  },
+  {
+    "name": "Bloodboil Aromatic",
+    "effect_ingame": "Raises attack but also damage received",
+    "effect": "Increases physical damage by 1.35x and maximum stamina by 1.2x, but lowers damage negation by 35%",
+    "duration": "60s",
+    "notes": null
+  },
+  {
+    "name": "Boiled Crab",
+    "effect_ingame": "Greatly boosts physical damage negation for a time",
+    "effect": "Increases physical damage negation by 20%",
+    "duration": "60s",
+    "notes": null
+  },
+  {
+    "name": "Boiled Prawn",
+    "effect_ingame": "Boosts physical damage negation for a time",
+    "effect": "Increases physical damage negation by 15%",
+    "duration": "60s",
+    "notes": null
+  },
+  {
+    "name": "Cerulean Crystal Tear",
+    "effect_ingame": "Greatly restores FP",
+    "effect": "Restores all FP",
+    "duration": "Instant",
+    "notes": null
+  },
+  {
+    "name": "Cerulean Hidden Tear",
+    "effect_ingame": "Eliminates all FP consumption",
+    "effect": "Self-explanatory",
+    "duration": "15s",
+    "notes": null
+  },
+  {
+    "name": "Crimson Bubbletear",
+    "effect_ingame": "Automatically heals one's HP when HP is low",
+    "effect": "Restores [MaxHP * 0.3] HP when HP is below 21% once",
+    "duration": "120s",
+    "notes": null
+  },
+  {
+    "name": "Crimson Crystal Tear",
+    "effect_ingame": "Greatly restores HP",
+    "effect": "Restores [MaxHP * 0.7] HP",
+    "duration": "Instant",
+    "notes": null
+  },
+  {
+    "name": "Crimsonburst Crystal Tear",
+    "effect_ingame": "Gradually restores one's HP for a limited time",
+    "effect": "Increases HP recovery by 7/s",
+    "duration": "120s",
+    "notes": null
+  },
+  {
+    "name": "Crimsonspill Crystal Tear",
+    "effect_ingame": "Temporarily raises one's maximum HP",
+    "effect": "Increases maximum HP by 1.2x",
+    "duration": "120s",
+    "notes": null
+  },
+  {
+    "name": "Crimsonwhorl Bubbletear",
+    "effect_ingame": "Converts incoming damage into recovered HP instead",
+    "effect": "Restores [MaxHP * 0.05] HP when hit",
+    "duration": "15s",
+    "notes": "Only converts elemental damage, physical is unaffected"
+  },
+  {
+    "name": "Dragonwound Grease",
+    "effect_ingame": "Boosts anti-dragon and physical attack",
+    "effect": "Increases physical damage by 1.1x, increases damage towards Ancient Draconic enemies by 1.2x and Draconic enemies by 1.3x",
+    "duration": "60s",
+    "notes": null
+  },
+  {
+    "name": "Exalted Flesh",
+    "effect_ingame": "Temporarily boosts physical attack",
+    "effect": "Increases physical damage by 1.2x",
+    "duration": "30s",
+    "notes": null
+  },
+  {
+    "name": "Flame-Shrouding Cracked Tear",
+    "effect_ingame": "Temporarily boosts the power of one's fire attacks",
+    "effect": "Increases fire damage by 1.2x",
+    "duration": "120s",
+    "notes": null
+  },
+  {
+    "name": "Freezing/Soporific/Poison/Blood/Rot Grease",
+    "effect_ingame": "Coats armament, inflicting \"x\"",
+    "effect": "Adds 30 status buildup to the weapon",
+    "duration": "30s",
+    "notes": null
+  },
+  {
+    "name": "Gold-Pickled Fowl Foot",
+    "effect_ingame": "Boosts rune acquisition for a time",
+    "effect": "Increases rune gain by 1.1x",
+    "duration": "60s",
+    "notes": null
+  },
+  {
+    "name": "Greenburst Crystal Tear",
+    "effect_ingame": "Temporarily boosts stamina recovery speed",
+    "effect": "Increases stamina recovery by 15/s",
+    "duration": "120s",
+    "notes": null
+  },
+  {
+    "name": "Greenspill Crystal Tear",
+    "effect_ingame": "Temporarily raises one's maximum stamina",
+    "effect": "Increases maximum stamina by 1.15x",
+    "duration": "120s",
+    "notes": null
+  },
+  {
+    "name": "Holy-Shrouding Cracked Tear",
+    "effect_ingame": "Temporarily boosts the power of one's holy attacks",
+    "effect": "Increases holy damage by 1.2x",
+    "duration": "120s",
+    "notes": null
+  },
+  {
+    "name": "Ironjar Aromatic",
+    "effect_ingame": "Raises defense but lowers mobility",
+    "effect": "Increases physical damage negations by 20% (reduces lightning by -60%)\nIncreases all resistances by 45 \nIncreases defFlickPower by 90 (some attacks bounce off the player)\nPrevents stagger from Damage Level  0, 1, 2, 3, 5, 8, and 11 with reduced stagger from Damage Level 4, 6, 7, 9, and 10",
+    "duration": "40s",
+    "notes": null
+  },
+  {
+    "name": "Leaden Hardtear",
+    "effect_ingame": "Temporarily boosts one's poise",
+    "effect": "Prevents stagger from damageLevel 1, 2, 3, 5, and 8 attacks",
+    "duration": "10s",
+    "notes": null
+  },
+  {
+    "name": "Lightning-Shrouding Cracked Tear",
+    "effect_ingame": "Temporarily boosts the power of one's lightning attacks",
+    "effect": "Increases lightning damage by 1.2x",
+    "duration": "120s",
+    "notes": null
+  },
+  {
+    "name": "Magic-Shrouding Cracked Tear",
+    "effect_ingame": "Temporarily boosts the power of one's magic attacks",
+    "effect": "Increases magic damage by 1.2x",
+    "duration": "120s",
+    "notes": null
+  },
+  {
+    "name": "Magic/Fire/Lightning/Holy Grease",
+    "effect_ingame": "Coats armament, inflicting \"x\" damage",
+    "effect": "Adds 35 magic/fire/lightning/holy AP to the weapon",
+    "duration": "30s",
+    "notes": null
+  },
+  {
+    "name": "Opaline Bubbletear",
+    "effect_ingame": "Provides significant damage negation",
+    "effect": "Increases damage negation by 90% until hit or duration expires",
+    "duration": "120s",
+    "notes": null
+  },
+  {
+    "name": "Opaline Hardtear",
+    "effect_ingame": "Temporarily boosts all forms of damage negation",
+    "effect": "Increases all damage negation by 15%",
+    "duration": "120s",
+    "notes": null
+  },
+  {
+    "name": "Pickled Turtle Neck",
+    "effect_ingame": "Temporarily boosts stamina recovery",
+    "effect": "Increases stamina recovery by 10/s",
+    "duration": "60s",
+    "notes": null
+  },
+  {
+    "name": "Shield Grease",
+    "effect_ingame": "Boosts guarding ability and all damage negation",
+    "effect": "Increases damage negation by 20% and reduces stamina damage by 0.87x when blocking",
+    "duration": "60s",
+    "notes": null
+  },
+  {
+    "name": "Silver-Pickled Fowl Foot",
+    "effect_ingame": "Temporarily boosts item discovery",
+    "effect": "Increases discovery by 30",
+    "duration": "60s",
+    "notes": null
+  },
+  {
+    "name": "Speckled Hardtear",
+    "effect_ingame": "Temporarily raises all resistances and heals all status effects",
+    "effect": "Increases status resist by 90 and sets buildup to 0",
+    "duration": "120s",
+    "notes": null
+  },
+  {
+    "name": "Spiked Crystal Tear",
+    "effect_ingame": "Increases the power of charged attacks for a certain duration",
+    "effect": "Increases charged heavy damage by 1.15x",
+    "duration": "120s",
+    "notes": null
+  },
+  {
+    "name": "Starlight Shards",
+    "effect_ingame": "Restores FP",
+    "effect": "Recovers [MaxFP * 0.6] FP",
+    "duration": "Instant",
+    "notes": null
+  },
+  {
+    "name": "Stonebarb Cracked Tear",
+    "effect_ingame": "Makes one's attacks more likely to break enemy stances",
+    "effect": "Increases poise damage by 1.3x",
+    "duration": "30s",
+    "notes": null
+  },
+  {
+    "name": "Thorny Cracked Tear",
+    "effect_ingame": "Makes consecutive attacks grow stronger the longer they continue",
+    "effect": "Increases damage by 1.09x/1.23x/1.48x/1.48x with continuous attacks",
+    "duration": "120s",
+    "notes": null
+  },
+  {
+    "name": "Twiggy Cracked Tear",
+    "effect_ingame": "Prevents one's runes from being lost upon death",
+    "effect": "Self-explanatory",
+    "duration": "120s",
+    "notes": null
+  },
+  {
+    "name": "Uplifting Aromatic",
+    "effect_ingame": "Boosts attack power and reduces incoming damage once",
+    "effect": "Increases physical damage by 1.1x and damage negation by 90% until hit or duration expires",
+    "duration": "40s",
+    "notes": null
+  },
+  {
+    "name": "Warming Stone",
+    "effect_ingame": "Continuously heal yourself and allies",
+    "effect": "Recovers 25 HP/s",
+    "duration": "30s",
+    "notes": null
+  },
+  {
+    "name": "Windy Crystal Tear",
+    "effect_ingame": "Increases the effectiveness of dodge rolls for a certain duration",
+    "effect": "Adds 3 iframes (30fps) to roll, decreases damage negations by 10%",
+    "duration": "120s",
+    "notes": "Doesn't stack with Crucible Feather Talisman"
+  }
+]

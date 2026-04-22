@@ -1,0 +1,673 @@
+[
+  {
+    "name": "Night of the Fathom",
+    "relics": {
+      "Generic": [
+        "Grand Burning Scene",
+        "Increased Maximum HP",
+        "Increased rune acquisition for self and allies",
+        "Flask Also heals Allies",
+        "Stonesword Key in possession at start of expedition",
+        "Items confer effect to all nearby allies",
+        "Rune discount for shop purchases while on expedition"
+      ],
+      "Wylder": [
+        "Slate Whetstone",
+        "[Wylder] Follow-up attacks possible when using Character Skill (greatsword only)",
+        "Physical Attack Up"
+      ],
+      "Guardian": [
+        "Stone Stake",
+        "[Guardian] Increased duration for Character skill",
+        "Character skill Cooldown Reduction +3"
+      ],
+      "Ironeye": [
+        "Grand Burning Scene",
+        "[Ironeye] Art Charge Activation adds poison",
+        "Attack power up when facing poison-afflicted enemy",
+        "Ultimate Art Guage +3"
+      ],
+      "Duchess": [
+        "Grand Burning Scene",
+        "[Duchess] Improved Strength and Vigor, Reduced Mind",
+        "Strength +3",
+        "Vigor +3"
+      ],
+      "Raider": [
+        "Grand Burning Scene",
+        "[Raider] Improved Mind and Intelligence, Reduced Vigor and Endurance",
+        "Mind +3",
+        "Intelligence +3"
+      ],
+      "Revenant": [],
+      "Recluse": [],
+      "Executor": [
+        "Golden Sprout",
+        "[Executor] Roaring restores HP while Art is active",
+        "HP Recovery From Successful Guarding",
+        "Slowly restore HP for self and nearby allies when HP is low"
+      ],
+      "Scholar": [
+        "Cleansing Tear",
+        "[Scholar] Continuous damage inflicted on targets threaded by Ultimate Art",
+        "Improved Affinity Damage Negation",
+        "Defeating Enemy fills more of the Art gauge"
+      ],
+      "Undertaker": []
+    }
+  },
+  {
+    "name": "Night of the Demon",
+    "relics": {
+      "Generic": [
+        "Grand Burning Scene",
+        "Huge rune discount for shop purchases while on expedition",
+        "Slowly restore HP for self and nearby allies when HP is low",
+        "Gesture \"Crossed Legs\" Builds Up Madness",
+        "Improved Damage Negation when at low HP",
+        "Madness Continually Recovers FP",
+        "Vigor +3"
+      ],
+      "Wylder": [
+        "Silver Tear",
+        "[Wylder] Art gauge greatly filled when ability is activated",
+        "Arcane +3",
+        "Ultimate Art Guage +3"
+      ],
+      "Guardian": [
+        "Third Volume",
+        "[Guardian] Creates whirlwind when charging halberd attacks",
+        "HP Restoration upon Halberd Attacks"
+      ],
+      "Ironeye": [],
+      "Duchess": [],
+      "Raider": [],
+      "Revenant": [],
+      "Recluse": [],
+      "Executor": [
+        "Grand Burning Scene",
+        "[Executor] Roaring restores HP while Art is active",
+        "Dexterity +2",
+        "Arcane +2"
+      ],
+      "Scholar": [
+        "Grand Burning Scene",
+        "[Scholar] Improved Mind, Reduced Vigor",
+        "Vigor +3",
+        "Mind +3"
+      ],
+      "Undertaker": []
+    }
+  },
+  {
+    "name": "The Night of Dregs",
+    "relics": {
+      "Generic": [
+        "Grand Burning Scene",
+        "Status Ailment Gauges Slowly Increase Attack Power",
+        "Improved Stance Breaking when wielding two armaments",
+        "Attacks Inflict Rot when Damage is Taken",
+        "Stamina Recovers with each successful attack",
+        "Rot in Vicinity Causes Continuous HP Recovery",
+        "Endurance +3"
+      ],
+      "Wylder": [
+        "The Wylder's Earring",
+        "[Wylder] +1 additional Character Skill use",
+        "[Wylder] Art activation spreads fire in area",
+        "Stamina recovers with each successful attack"
+      ],
+      "Guardian": [
+        "Grand Burning Stone",
+        "[Guardian] Reflect a portion of damage received when ability is activated",
+        "Art Gauge charged from successful guarding",
+        "Endurance +3"
+      ],
+      "Ironeye": [],
+      "Duchess": [],
+      "Raider": [],
+      "Revenant": [],
+      "Recluse": [],
+      "Executor": [
+        "Grand Burning Scene",
+        "[Executor] Improved Vigor and Endurance, Reduced Arcane",
+        "Vigor +3",
+        "Endurance +3"
+      ],
+      "Scholar": [],
+      "Undertaker": []
+    }
+  },
+  {
+    "name": "Dark Night of the Baron",
+    "relics": {
+      "Generic": [
+        "Grand Burning Scene",
+        "Improved Critical Hits +1",
+        "Attacks Inflict Rot when Damage is Taken",
+        "Improved Critical Hits",
+        "Status Ailment Gauges Slowly Increase Attack Power",
+        "Critical Hit Earn Runes",
+        "Arcane +2",
+        "Grand Burning Scene",
+        "HP restored when using medicinal boluses, etc",
+        "Items confer effect to all nearby allies",
+        "Small Pouch in possession at start of expedition"
+      ],
+      "Wylder": [
+        "Grand Burning Scene",
+        "[Wylder] Improved Mind, Reduced Vigor",
+        "Vigor +3",
+        "Mind +3"
+      ],
+      "Guardian": [
+        "Grand Burning Scene",
+        "[Guardian] Improved Strength and Dexterity, Reduced Vigor",
+        "Strength +3",
+        "Dexterity +3"
+      ],
+      "Ironeye": [],
+      "Duchess": [],
+      "Raider": [],
+      "Revenant": [],
+      "Recluse": [],
+      "Executor": [],
+      "Scholar": [],
+      "Undertaker": []
+    }
+  },
+  {
+    "name": "Night of the Champion",
+    "relics": {
+      "Generic": [
+        "Old Pocketwatch",
+        "Increased Maximum Stamina",
+        "FP Restoration upon Successive Attacks",
+        "Guard counter is given a boost based on current HP",
+        "Dexterity +3",
+        "HP Restoration upon Thrusting Counterattack"
+      ],
+      "Wylder": [],
+      "Guardian": [],
+      "Ironeye": [
+        "Grand Tranquil Scene",
+        "[Ironeye] Improved Arcane, Reduced Dexterity",
+        "Dexterity +3",
+        "Arcane +3"
+      ],
+      "Duchess": [
+        "Crown Medal",
+        "[Duchess] Dagger chain attack reprises event upon nearby enemies",
+        "Improved Dagger Attack Power"
+      ],
+      "Raider": [
+        "Grand Tranquil Scene",
+        "[Raider] Improved Arcane, Reduced Vigor",
+        "Vigor +3",
+        "Arcane +3"
+      ],
+      "Revenant": [],
+      "Recluse": [
+        "Vestige of Night",
+        "[Recluse] Collecting affinity residue activates Terra Magica",
+        "Magic Attack Power Up +2"
+      ],
+      "Executor": [
+        "Blessed Flowers",
+        "[Executor] While Character skill is active, unlocking use of cursed sword restores HP",
+        "Dexterity +3"
+      ],
+      "Scholar": [],
+      "Undertaker": [
+        "Grand Tranquil Scene",
+        "[Undertaker] Attack Power Increased by landing final blow of a chain attack",
+        "Strength +2",
+        "Faith +2"
+      ]
+    }
+  },
+  {
+    "name": "Night of the Beast",
+    "relics": {
+      "Generic": [
+        "Grand Tranquil Scene",
+        "Stamina recovers with each successful attack +1",
+        "Partial HP Restoration upon Post-Damage Attacks",
+        "Starting armament deals fire damage",
+        "Vigor +2",
+        "Poise +2"
+      ],
+      "Wylder": [],
+      "Guardian": [],
+      "Ironeye": [],
+      "Duchess": [
+        "Blessed Iron Coin",
+        "[Duchess] Defeating enemies while Art is active ups attack power",
+        "Continuous HP Recovery",
+        "Vigor +3"
+      ],
+      "Raider": [],
+      "Revenant": [],
+      "Recluse": [
+        "Bone-Like Stone",
+        "[Recluse] Suffer blood loss and increase attack power upon Art activation",
+        "[Recluse] Activating Ultimate Art raises Max HP",
+        "Intelligence +3"
+      ],
+      "Executor": [],
+      "Scholar": [],
+      "Undertaker": [
+        "Glass Necklace",
+        "[Undertaker] Activating Ultimate Art increases attack power",
+        "Successive attacks boost attack power",
+        "Ultimate Art auto charge +3"
+      ]
+    }
+  },
+  {
+    "name": "Dark Night of the Wise",
+    "relics": {
+      "Generic": [
+        "Grand Tranquil Scene",
+        "Increased Maximum FP",
+        "Improved Stance Breaking when two handing",
+        "FP Restoration upon Successive Attacks",
+        "Improved Initial Standard Attack",
+        "Max FP permanently increased after releasing Sorcerer's Rise Mechanism",
+        "Poise +3"
+      ],
+      "Wylder": [],
+      "Guardian": [],
+      "Ironeye": [],
+      "Duchess": [
+        "Grand Tranquil Scene",
+        "[Duchess] Improved Character Skill Attack Power",
+        "Dexterity +2",
+        "Intelligence +2"
+      ],
+      "Raider": [],
+      "Revenant": [],
+      "Recluse": [
+        "Grand Tranquil Scene",
+        "[Recluse] Improved Intelligence and Faith, Reduced Mind",
+        "Intelligence +3",
+        "Faith +3"
+      ],
+      "Executor": [],
+      "Scholar": [],
+      "Undertaker": [
+        "Grand Tranquil Scene",
+        "[Undertaker] Improved Mind and Faith, Reduced Strength",
+        "Mind +3",
+        "Faith +3"
+      ]
+    }
+  },
+  {
+    "name": "Dark Night of the Miasma",
+    "relics": {
+      "Generic": [
+        "Grand Tranquil Scene",
+        "Nearby Frostbite Conceals Self",
+        "Max FP Up with 3+ Staves Equipped",
+        "Starting armament inflicts frost",
+        "Max FP permanently increased after releasing Sorcerer's Rise mechanism",
+        "Improved Physical Damage Negation",
+        "Magic Attack Power Up",
+        "Grand Tranquil Scene",
+        "Taking Attacks improves attack power",
+        "Improved Poise & Damage Negation when knocked back by damage",
+        "Physical Attack Up +2"
+      ],
+      "Wylder": [],
+      "Guardian": [],
+      "Ironeye": [],
+      "Duchess": [
+        "Grand Tranquil Scene",
+        "[Duchess] Become difficult to spot and silence footsteps after landing critical from behind",
+        "Improved Critical Hits",
+        "Character Skill Cooldown Reduction +2"
+      ],
+      "Raider": [],
+      "Revenant": [],
+      "Recluse": [],
+      "Executor": [],
+      "Scholar": [],
+      "Undertaker": []
+    }
+  },
+  {
+    "name": "Dark Night of the Fathom",
+    "relics": {
+      "Generic": [
+        "Fell Omen Fetish",
+        "Increased Maximum HP",
+        "Switching Weapons Boosts Attack Power",
+        "Continuous HP Recovery",
+        "Improved Throwing Knife Damage",
+        "Slowly restore HP for self and allies when HP is low",
+        "Vigor +1"
+      ],
+      "Wylder": [
+        "Grand Drizzly Stone",
+        "[Wylder] Art Activation Spreads fire in the area",
+        "Change armament skill to Flaming Strike",
+        "Fire attack power up +2"
+      ],
+      "Guardian": [
+        "Witch's Brooch",
+        "[Guardian] Slowly restores nearby allies' HP while Art is active",
+        "[Guardian] Reflect a portion of damage received when ability is activated",
+        "Vigor +3"
+      ],
+      "Ironeye": [],
+      "Duchess": [
+        "Grand Drizzly Scene",
+        "[Duchess] Improved Mind and Faith, Reduced Intelligence",
+        "Mind +3",
+        "Faith +3"
+      ],
+      "Raider": [
+        "Torn Braided Cord",
+        "[Raider] Damage taken while using Character skill improves attack power and stamina",
+        "Strength +3"
+      ],
+      "Revenant": [
+        "Small Makeup Brush",
+        "[Revenant] Power up while fighting alongside family",
+        "Increased rune acquisition for self and allies"
+      ],
+      "Recluse": [
+        "Grand Drizzly Scene",
+        "[Recluse] Improved Vigor, Endurance, and Dexterity, Reduced Intelligence and Faith",
+        "Vigor +3",
+        "Endurance +3"
+      ],
+      "Executor": [],
+      "Scholar": [],
+      "Undertaker": [
+        "Leather Monocle Case",
+        "[Undertaker] Physical Attacks boosted while assist effect from incantation is active",
+        "Extended spell duration",
+        "Physical Attack Up +2"
+      ]
+    }
+  },
+  {
+    "name": "Night of the Baron",
+    "relics": {
+      "Generic": [
+        "Besmirched Frame",
+        "Improved Critical Hits +1",
+        "Taking attacks improves attack power",
+        "Art gauge fills moderately upon critical hit",
+        "Faith +3",
+        "Critical Hit Boosts Stamina Recovery Speed"
+      ],
+      "Wylder": [
+        "Grand Drizzly Stone",
+        "[Wylder] Improved Intelligence and Faith, Reduced Strength and Dexterity",
+        "Intelligence +3",
+        "Faith +3"
+      ],
+      "Guardian": [],
+      "Ironeye": [],
+      "Duchess": [],
+      "Raider": [],
+      "Revenant": [
+        "Old Portrait",
+        "[Revenant] Expend own HP to fully heal nearby allies when activating Art",
+        "[Revenant] Trigger ghostflame explosion during Ultimate Art activation",
+        "Defeating enemies fills more of the Art gauge"
+      ],
+      "Recluse": [],
+      "Executor": [],
+      "Scholar": [],
+      "Undertaker": [
+        "Grand Drizzly Scene",
+        "[Undertaker] Improved Dexterity, Reduced Vigor and Faith",
+        "Vigor +3",
+        "Dexterity +3"
+      ]
+    }
+  },
+  {
+    "name": "Night of the Lord",
+    "relics": {
+      "Generic": [
+        "Grand Drizzly Stone",
+        "Switching Weapons Adds an Affinity Attack",
+        "Starlight Shards in possession at start of expedition",
+        "Boosts Attack Power of Added Affinity Attacks",
+        "Starlight Shards in possession at start of expedition",
+        "Switching Weapons Boosts Attack Power",
+        "Starlight Shards in possession at start of expedition"
+      ],
+      "Wylder": [],
+      "Guardian": [],
+      "Ironeye": [],
+      "Duchess": [],
+      "Raider": [],
+      "Revenant": [
+        "Grand Drizzly Scene",
+        "[Revenant] Strengthens Families and Allies when Ultimate Art is activated",
+        "Item confer effect to all nearby allies",
+        "Starlight Shards in possession at start of expedition"
+      ],
+      "Recluse": [],
+      "Executor": [],
+      "Scholar": [],
+      "Undertaker": [
+        "Grand Drizzly Scene",
+        "[Undertaker] Contact with allies restores their HP while Ultimate Art is activated",
+        "Partial HP Restoration upon Post-Damage Attacks",
+        "Defeating enemies fills more of the Art gauge"
+      ]
+    }
+  },
+  {
+    "name": "The Will of the Balancers",
+    "relics": {
+      "Generic": [
+        "Grand Drizzly Stone",
+        "Improved Melee Attack Power",
+        "Max HP increased for each great enemy defeated at a Great Church",
+        "Improved Skill Attack Power",
+        "Arcane increased for each great enemy defeated at a Ruin",
+        "Continuous FP Recovery",
+        "Max FP increased for each Sorcerer's Rise unlocked"
+      ],
+      "Wylder": [],
+      "Guardian": [],
+      "Ironeye": [],
+      "Duchess": [],
+      "Raider": [],
+      "Revenant": [
+        "Grand Drizzly Scene",
+        "[Revenant] Improved Vigor and Endurance, Reduced Mind",
+        "Vigor +3",
+        "Endurance +3"
+      ],
+      "Recluse": [],
+      "Executor": [],
+      "Scholar": [],
+      "Undertaker": []
+    }
+  },
+  {
+    "name": "Dark Night of the Demon",
+    "relics": {
+      "Generic": [
+        "Taking attacks improves attack power",
+        "Gesture \"Crossed Legs\" Builds Up Madness",
+        "Madness Continually Recovers FP"
+      ],
+      "Wylder": [],
+      "Guardian": [],
+      "Ironeye": [],
+      "Duchess": [],
+      "Raider": [],
+      "Revenant": [],
+      "Recluse": [],
+      "Executor": [],
+      "Scholar": [],
+      "Undertaker": []
+    }
+  },
+  {
+    "name": "Night of the Wise",
+    "relics": {
+      "Generic": [
+        "Grand Luminous Scene",
+        "Increased Maximum FP",
+        "Attack Power permanently increased for each evergoal prisoner defeated",
+        "Starting armament inflicts poison",
+        "Treasure marked upon map",
+        "Poison & Rot in Vicinity Increases Attack Power",
+        "Stoneward Key in possession at start of expedition"
+      ],
+      "Wylder": [],
+      "Guardian": [
+        "Grand Luminous Scene",
+        "[Guardian] Improved Mind and Faith, Reduced Vigor",
+        "Mind +3",
+        "Faith +3"
+      ],
+      "Ironeye": [
+        "Cracked Sealing Wax",
+        "[Ironeye] Extends duration of weak point",
+        "Critical hits Earn Runes"
+      ],
+      "Duchess": [
+        "Golden Dew",
+        "[Duchess] Improved Character Skill Attack Power",
+        "Boosts Attack Power of Added Affinity Attacks"
+      ],
+      "Raider": [
+        "Black Claw Necklace",
+        "Defeating enemies near Totem Stela restores HP",
+        "Defeating enemies fills more of the Art gauge",
+        "Poise +3"
+      ],
+      "Revenant": [
+        "Grand Luminous Scene",
+        "[Revenant] Improved Strength, Reduced Faith",
+        "Strength +3",
+        "Faith +3"
+      ],
+      "Recluse": [],
+      "Executor": [
+        "Grand Luminous Scene",
+        "[Executor] Character Skill boosts Attack but Attacking Drains HP",
+        "HP recovery from successful guarding",
+        "Art Gauge Charged from successful guarding"
+      ],
+      "Scholar": [
+        "Note \"My Dear Successor\"",
+        "[Scholar] Allies targeted by Character Skill gain boosted Attack",
+        "[Scholar] Prevent slowing of Character Skill progress",
+        "Character Skill cooldown reduction +3"
+      ],
+      "Undertaker": []
+    }
+  },
+  {
+    "name": "Night of the Miasma",
+    "relics": {
+      "Generic": [
+        "Grand Luminous Scene",
+        "Nearby Frostbite Conceals Self",
+        "Critical hits fill more of the Art gauge",
+        "Changes compatible armament's skill to Chilling Mist at start of expedition",
+        "Defeating enemies fills more of the Art gauge",
+        "Attack power up when facing frostbite-afflicted enemy",
+        "Ultimate Art Auto Charge +3"
+      ],
+      "Wylder": [],
+      "Guardian": [],
+      "Ironeye": [
+        "Edge of Order",
+        "[Ironeye] Boosts thrusting counterattacks after executing Art",
+        "Improved Bow Attack Power",
+        "Starting armament deals holy damage"
+      ],
+      "Duchess": [],
+      "Raider": [
+        "Grand Luminous Scene",
+        "[Raider] Duration of Ultimate Art extended",
+        "Improved Colossal Weapon Attack Power",
+        "Endurance +3"
+      ],
+      "Revenant": [],
+      "Recluse": [],
+      "Executor": [
+        "Grand Luminous Scene",
+        "[Executor] Improved Dexterity and Arcane, Reduced Vigor",
+        "Dexterity +3",
+        "Arcane +3"
+      ],
+      "Scholar": [
+        "Grand Luminous Scene",
+        "[Scholar] Improved Endurance and Dexterity, Reduced Intelligence and Arcane",
+        "Endurance +3",
+        "Dexterity +3"
+      ],
+      "Undertaker": []
+    }
+  },
+  {
+    "name": "Dark Night of the Champion",
+    "relics": {
+      "Generic": [
+        "Increased Maximum Stamina",
+        "Boosts Attack Power of Added Affinity Attacks",
+        "Defeating enemies fills more of the Art gauge"
+      ],
+      "Wylder": [],
+      "Guardian": [],
+      "Ironeye": [
+        "Grand Luminous Scene",
+        "[Ironeye] Extends duration of weak point",
+        "Endurance +2",
+        "Dexterity +2"
+      ],
+      "Duchess": [],
+      "Raider": [],
+      "Revenant": [],
+      "Recluse": [],
+      "Executor": [],
+      "Scholar": [
+        "Grand Luminous Scene",
+        "[Scholar] Earn runes for each additional specimen acquired with Character Skill",
+        "Small Pouch in possession at start of expedition",
+        "Small Pouch in possession at start of expedition"
+      ],
+      "Undertaker": []
+    }
+  },
+  {
+    "name": "Dark Night of the Beast",
+    "relics": {
+      "Generic": [
+        "Stamina Recovery upon Landing Attacks +1",
+        "Taking attacks improves attack power",
+        "Fire Attack Power Up +2"
+      ],
+      "Wylder": [],
+      "Guardian": [],
+      "Ironeye": [
+        "Grand Luminous Scene",
+        "[Ironeye] Improved Vigor and Strength, Reduced Dexterity",
+        "Vigor +3",
+        "Strength +3"
+      ],
+      "Duchess": [],
+      "Raider": [],
+      "Revenant": [],
+      "Recluse": [],
+      "Executor": [],
+      "Scholar": [],
+      "Undertaker": []
+    }
+  }
+]
