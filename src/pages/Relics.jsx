@@ -99,12 +99,6 @@ const dormantColumns = [
     cell: ({ getValue }) => <span className="text-zinc-200">{getValue()}</span>,
   },
   {
-    accessorKey: 'description_ingame',
-    header: 'In-Game Description',
-    size: 200,
-    cell: ({ getValue }) => <span className="text-zinc-400 italic text-sm">{getValue() || '—'}</span>,
-  },
-  {
     accessorKey: 'effect',
     header: 'Effect',
     size: 280,
