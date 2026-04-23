@@ -169,7 +169,7 @@ export default function Relics() {
     })
   }, [relicsData, dormantData, activeSource, isDormant, search, activeCategories, activeChar, stackableOnly])
 
-  const showCharFilter = !isDormant && (activeSource === 'weapon_passive' || activeSource === 'generic_relic')
+  const showCharFilter = !isDormant && (activeSource === 'weapon_passive' || activeSource === 'generic_relic' || activeSource === 'deep_relic')
   const categoryOptions = isDormant ? DORMANT_CATEGORIES : RELIC_CATEGORIES
 
   return (

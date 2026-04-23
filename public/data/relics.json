@@ -4545,7 +4545,7 @@
     "source": "deep_relic"
   },
   {
-    "category": "Curse",
+    "category": "Character",
     "description": "[Wylder] Improved Mind, Reduced Vigor",
     "effect": "increases mind by 10 and decreases vigor by 5. (At level 12+; scales with lvl)",
     "stackable": "No",
@@ -4554,7 +4554,7 @@
     "source": "deep_relic"
   },
   {
-    "category": "Curse",
+    "category": "Character",
     "description": "[Wylder] Improved Intelligence and Faith, Reduced Strength and Dexterity",
     "effect": "Increases intelligence and faith by 15. Decreases strength by 7 and dexterity by 5. (At level 12+; scales with lvl)",
     "stackable": "No",
@@ -4563,7 +4563,7 @@
     "source": "deep_relic"
   },
   {
-    "category": "Curse",
+    "category": "Character",
     "description": "[Guardian] Improved Strength and Dexterity, Reduced Vigor",
     "effect": "Increases strength by 9 and dexterity by 19. Decreases vigor by 8. (At level 12+; scales with lvl)",
     "stackable": "No",
@@ -4572,7 +4572,7 @@
     "source": "deep_relic"
   },
   {
-    "category": "Curse",
+    "category": "Character",
     "description": "[Guardian] Improved Mind and Faith, Reduced Vigor",
     "effect": "Increases mind by 8 and faith by 17. Decreases vigor by 6. (At level 12+; scales with lvl)",
     "stackable": "No",
@@ -4581,7 +4581,7 @@
     "source": "deep_relic"
   },
   {
-    "category": "Curse",
+    "category": "Character",
     "description": "[Ironeye] Improved Arcane, Reduced Dexterity",
     "effect": "Increases arcane by 15 and decreases dexterity by 9. (At level 12+; scales with lvl)",
     "stackable": "No",
@@ -4590,7 +4590,7 @@
     "source": "deep_relic"
   },
   {
-    "category": "Curse",
+    "category": "Character",
     "description": "[Ironeye] Improved Vigor and Strength, Reduced Dexterity",
     "effect": "Increases vigor by 5 and strength by 20. Decreases dexterity by 13. (At level 12+; scales with lvl)",
     "stackable": "No",
@@ -4608,7 +4608,7 @@
     "source": "deep_relic"
   },
   {
-    "category": "Curse",
+    "category": "Character",
     "description": "[Duchess] Improved Mind and Faith, Reduced Intelligence",
     "effect": "Increases mind by 3 and faith by 13. Decreases intelligence by 5. (At level 12+; scales with lvl)",
     "stackable": "No",
@@ -4617,7 +4617,7 @@
     "source": "deep_relic"
   },
   {
-    "category": "Curse",
+    "category": "Character",
     "description": "[Raider] Improved Mind and Intelligence, Reduced Vigor and Endurance",
     "effect": "increases mind by 9 and intelligence by 35. Decreases vigor by 8 and endurance by 4. (At level 12+; scales with lvl)",
     "stackable": "No",
@@ -4626,7 +4626,7 @@
     "source": "deep_relic"
   },
   {
-    "category": "Curse",
+    "category": "Character",
     "description": "[Raider] Improved Arcane, Reduced Vigor",
     "effect": "Increases arcane by 17 and decreases vigor by 4. (At level 12+; scales with lvl)",
     "stackable": "No",
@@ -4644,7 +4644,7 @@
     "source": "deep_relic"
   },
   {
-    "category": "Curse",
+    "category": "Character",
     "description": "[Revenant] Improved Strength, Reduced Faith",
     "effect": "Increases strength by 25. Decreases faith by 6. (At level 12+; scales with lvl)",
     "stackable": "No",
@@ -4653,7 +4653,7 @@
     "source": "deep_relic"
   },
   {
-    "category": "Curse",
+    "category": "Character",
     "description": "[Recluse] Improved Vigor, Endurance, and Dexterity, Reduced Intelligence and Faith",
     "effect": "Increases vigor by 4, endurance by 5 and dexterity by 20. Decreases intelligence and faith by 10. (At level 12+; scales with lvl)",
     "stackable": "No",
@@ -4680,7 +4680,7 @@
     "source": "deep_relic"
   },
   {
-    "category": "Curse",
+    "category": "Character",
     "description": "[Executor] Improved Dexterity and Arcane, Reduced Vigor",
     "effect": "Increases dexterity by 9 and arcane by 12. Decreases vigor by 7. (At level 12+; scales with lvl)",
     "stackable": "No",
@@ -4689,7 +4689,7 @@
     "source": "deep_relic"
   },
   {
-    "category": "Curse",
+    "category": "Character",
     "description": "[Scholar] Improved Mind, Reduced Vigor",
     "effect": "Increases mind by 9. Decreases vigor by 3. (At level 12+; scales with lvl)",
     "stackable": "No",
@@ -4698,7 +4698,7 @@
     "source": "deep_relic"
   },
   {
-    "category": "Curse",
+    "category": "Character",
     "description": "[Scholar] Improved Endurance and Dexterity, Reduced Intelligence and Arcane",
     "effect": "Increases endurance by 6 and dexterity by 40. Decreases intelligence by 4 and arcane by 20. (At level 12+; scales with lvl)",
     "stackable": "No",
@@ -4707,7 +4707,7 @@
     "source": "deep_relic"
   },
   {
-    "category": "Curse",
+    "category": "Character",
     "description": "[Undertaker] Improved Dexterity, Reduced Vigor and Faith",
     "effect": "Increases dexterity by 19. Decreases vigor by 5 and faith by 13. (At level 12+; scales with lvl)",
     "stackable": "No",
@@ -4716,7 +4716,7 @@
     "source": "deep_relic"
   },
   {
-    "category": "Curse",
+    "category": "Character",
     "description": "[Undertaker] Improved Mind and Faith, Reduced Strength",
     "effect": "Increases mind by 9 and faith by 12. Decreases strength by 15. (At level 12+; scales with lvl)",
     "stackable": "No",
