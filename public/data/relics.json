@@ -4939,5 +4939,491 @@
     "notes": null,
     "character": null,
     "source": "deep_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Increased Maximum HP",
+    "effect": "Increases maximum HP by 8% / 12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Stat",
+    "description": "Increased Maximum FP",
+    "effect": "Increases maximum FP by 9% / 13%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Stat",
+    "description": "Increased Maximum Stamina",
+    "effect": "Increases maximum stamina by 8% / 12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Physical Attack Power",
+    "effect": "Increases physical attack damage by 6% / 9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Stance-Breaking",
+    "effect": "Increases poise damage by 8% / 12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Affinity Damage Negation",
+    "effect": "Increases magic/fire/lightning/holy damage by 5.5% / 8%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Poise",
+    "effect": "Reduces incoming poise damage by 20% / 33%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Thrusting Counterattack",
+    "effect": "Increases counterattack damage by 10% / 15%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Exploration",
+    "description": "More Runes From Defeated Enemies",
+    "effect": "Increases rune gain by 6% / 9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Reduced Maximum HP",
+    "effect": "Reduces maximum HP by 4% / 6%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Reduced Maximum FP",
+    "effect": "Reduces maximum FP by 6% / 9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Reduced Maximum Stamina",
+    "effect": "Reduces maximum stamina by 5% / 8%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Impaired Physical Damage Negation",
+    "effect": "Increases physical damage taken by 5.5% / 8%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Impaired Affinity Damage Negation",
+    "effect": "Increases magic/fire/lightning/holy damage taken by 5.5% / 8%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "All Resistances Down",
+    "effect": "Reduces status resistances by 30 / 45.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Reduced Flask HP Restoration",
+    "effect": "Reduces HP gained from flasks by 6% / 9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Continuous HP Loss",
+    "effect": "Wearer takes 1 HP damage per 1s / 0.67s.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Night's Tide Damage Increased",
+    "effect": "Increases damage taken by the Night's Tide by 100% / 150%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Damage Increased by Night's Encroachment",
+    "effect": "Increases damage taken by 1% / 2.5% throughout each day, 4 times per day. Typically at start of day, 1st circle closed, 2nd circle closing, 2nd circle closed. Stacks reset after Night 1 boss.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Reduced Damage Negation After Evading",
+    "effect": "Increases damage taken by 15% / 20% right after rolling.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Repeated Evasions Lower Damage Negation",
+    "effect": "Increases damage taken by 23% / 30% for 15 seconds on repeat rolls.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Reduced Damage Negation for Flask Usages",
+    "effect": "Increases damage taken by 33% / 46% while using flask.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Lower Attack When Below Max HP",
+    "effect": "Decreases damage by 5% / 7% when below Max HP.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Slower Art Gauge When Below Max HP",
+    "effect": "Decreases passive ultimate gauge gained by 10% / 15% when Below Max HP.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Poison Buildup When Below Max HP",
+    "effect": "Builds up 2 poison every 0.28 / 0.22 seconds when HP is below 100%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Rot Buildup When Below Max HP",
+    "effect": "Builds up 2 rot every 0.32 / 0.24 seconds when HP is below 100%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Lower Stamina Impairs Dmg Negation",
+    "effect": "Increases damage taken by 10% / 15% when stamina is at or below 50%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Attacks Impaired on Occasion",
+    "effect": "Each attack has a 3% / 5% chance to deal no damage.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Ailments Cause Increased Damage",
+    "effect": "Increases status damage received by 30% / 45%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Near Death Reduces Art Gauge",
+    "effect": "Decreases ultimate gauge by 25 / 33 when the wearer is downed.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Curse",
+    "description": "Near Death Reduces Max HP",
+    "effect": "Decreases maximum HP by 15% for 30 seconds after being downed.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Regen",
+    "description": "Improved Stamina Recovery",
+    "effect": "Increases stamina recovery by 3 / 5 per second.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Defensive",
+    "description": "All Resistances Up",
+    "effect": "Increases all status effect resistance by 52 / 65.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Sorceries & Incantations",
+    "effect": "Increases spell damage by 5.5% / 8%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Increased Sorcery & Incantation Duration",
+    "effect": "Increases duration of spells by 45% / 60%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Regen",
+    "description": "Improved Flask HP Restoration",
+    "effect": "Increases HP gained from flasks by 13% / 18%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Ice Storm upon Charge Attacks",
+    "effect": "Performs a frost wind attack after charged heavy attack. Buffs weapon with 20 frost buildup for 20 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Black Flames upon Charge Attacks",
+    "effect": "Creates black flame on the ground after charged heavy attack. Buffs weapon with 12 fire AP and damage over time effect for 7 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Phantom Attack upon Charge Attacks",
+    "effect": "Charged slash triggers phantom attack.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Holy Shockwave upon Charge Attacks",
+    "effect": "Performs Wave of Gold Ash of War after charged heavy attack. Buffs weapon with 12 holy AP for 20 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Luring Enemies upon Charge Attacks",
+    "effect": "Creates gravity pulse that pulls in enemies after charged heavy attack.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Magma upon Charge Attacks",
+    "effect": "Creates magma on ground after charged heavy attack. Buffs weapon with 12 fire AP for 20 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Lightning upon Charge Attacks",
+    "effect": "Creates lightning blast after charged heavy attack. Buffs weapon with 12 lightning AP for 20 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Charge Attacks Invoke Sleep Mist",
+    "effect": "Creates sleep mist after charged heavy attack. Buffs weapon with 20 sleep buildup for 20 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Projectiles Launched upon Charge Attacks",
+    "effect": "Fires 3 magic projectiles after charged heavy bow shot.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Lightning upon Precision Aiming",
+    "effect": "Precision-aimed shot produces a bolt of lightning at the point of impact.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Poison Mist upon Precision Aiming",
+    "effect": "Precision-aimed shot produces poison mist at the point of impact.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Rot Mist upon Precision Aiming",
+    "effect": "Precision-aimed shot produces rot-inducing mist at the point of impact.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Bloodflies upon Precision Aiming",
+    "effect": "Precision-aimed shot releases a swarm of bloodflies at the point of impact.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Defensive",
+    "description": "Shielding Creates Holy Ground",
+    "effect": "Creates a holy ground by keeping shield held up for 3 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Defensive",
+    "description": "Broken Stance Activates Endure",
+    "effect": "Activates Endure to boost poise and damage negation when parried and stance is broken.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Regen",
+    "description": "Flask Healing Also Restores FP",
+    "effect": "Restores 20% of Max FP when drinking flask.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Regen",
+    "description": "Failing to Cast Spell Restores FP",
+    "effect": "Restores 13% of Max FP after attempting to cast a spell with insufficient FP.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Continued Guarding Grants Increased Potency of Sorceries/Incantations and Faster Casting",
+    "effect": "Increases spell damage by 10% for 2 seconds and vdex by 30 for 25 seconds after blocking with staff/seal. Effect stacks up to 3 times.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_weapon"
   }
 ]
