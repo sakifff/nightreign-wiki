@@ -5425,5 +5425,1103 @@
     "notes": null,
     "character": null,
     "source": "deep_weapon"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Magic Attack Power",
+    "effect": "Increases damage of respective element by 6% / 9% / 12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Fire Attack Power",
+    "effect": "Increases damage of respective element by 6% / 9% / 12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Lightning Attack Power",
+    "effect": "Increases damage of respective element by 6% / 9% / 12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Holy Attack Power",
+    "effect": "Increases damage of respective element by 6% / 9% / 12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attacks Inflict Poison",
+    "effect": "Adds 18 / 23 / 30 status buildup to the weapon.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attacks Inflict Blood Loss",
+    "effect": "Adds 18 / 23 / 30 status buildup to the weapon.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attacks Inflict Sleep",
+    "effect": "Adds 18 / 23 / 30 status buildup to the weapon.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attacks Inflict Death Blight",
+    "effect": "Adds 18 / 23 / 30 status buildup to the weapon.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attacks Inflict Rot",
+    "effect": "Adds 18 / 23 / 30 status buildup to the weapon.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attacks Inflict Frost",
+    "effect": "Adds 18 / 23 / 30 status buildup to the weapon.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attacks Inflict Madness",
+    "effect": "Adds 18 / 23 / 30 status buildup to the weapon.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Add Fire to Weapon",
+    "effect": "Subtracts 25 / 26 / 30 / 35 physical AP from the weapon, adds 25 / 26 / 30 /35 elemental AP to the weapon.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Add Magic to Weapon",
+    "effect": "Subtracts 25 / 26 / 30 / 35 physical AP from the weapon, adds 25 / 26 / 30 /35 elemental AP to the weapon.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Add Lightning to Weapon",
+    "effect": "Subtracts 25 / 26 / 30 / 35 physical AP from the weapon, adds 25 / 26 / 30 /35 elemental AP to the weapon.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Add Holy to Weapon",
+    "effect": "Subtracts 25 / 26 / 30 / 35 physical AP from the weapon, adds 25 / 26 / 30 /35 elemental AP to the weapon.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Critical Hits",
+    "effect": "Increases critical hit damage by 12% / 18% / 24%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Guard Breaking",
+    "effect": "Increases stamina damage by 30% / 45% / 60%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Magic Damage Negation",
+    "effect": "Increases damage negation of respective element by 12% / 16% / 20%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Fire Damage Negation",
+    "effect": "Increases damage negation of respective element by 12% / 16% / 20%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Lightning Damage Negation",
+    "effect": "Increases damage negation of respective element by 12% / 16% / 20%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Holy Damage Negation",
+    "effect": "Increases damage negation of respective element by 12% / 16% / 20%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Poison Resistance",
+    "effect": "Increases status resistance by 57 / 75 / 112.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Blood Loss Resistance",
+    "effect": "Increases status resistance by 57 / 75 / 112.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Sleep Resistance",
+    "effect": "Increases status resistance by 57 / 75 / 112.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Death Blight Resistance",
+    "effect": "Increases status resistance by 57 / 75 / 112.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Rot Resistance",
+    "effect": "Increases status resistance by 57 / 75 / 112.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Frost Resistance",
+    "effect": "Increases status resistance by 57 / 75 / 112.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Madness Resistance",
+    "effect": "Increases status resistance by 57 / 75 / 112.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Guarding Ability",
+    "effect": "Reduces stamina damage taken when guarding by 10% / 15% / 20%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power when Two-Handing",
+    "effect": "Increases damage by 12% / 15% / 18% when 2 handing your weapon.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Stance-Breaking when Two-Handing",
+    "effect": "Increases poise damage by 20% / 25% when two-handing.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attack Up when Wielding Two Armaments",
+    "effect": "Increases paired L1 damage by 12% / 15% / 18%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Stance-Breaking when Wielding Two Armaments",
+    "effect": "Increases paired L1 poise damage by 20% / 25%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Chain Attack Finishers",
+    "effect": "Increases the last hit of a light attack chain's damage by 21% / 26% / 31%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Charge Attacks",
+    "effect": "Increases charged heavy damage by 16% / 19% / 22%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Jump Attacks",
+    "effect": "Increases jump attack damage by 14% / 17% / 20%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Dmg Negation Up upon Landing Charge Attacks",
+    "effect": "Increases damage negation by 24% / 32% / 40% after landing a charged heavy attack.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Melee Attack Power",
+    "effect": "Increases melee damage by 9% / 12% / 15%.",
+    "stackable": "TBD",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Dash Attacks",
+    "effect": "Increases dash damage by 20% / 24% / 28%.",
+    "stackable": "TBD",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Rolling Attacks",
+    "effect": "Increases rolling attack damage by 20% / 24% / 28%.",
+    "stackable": "TBD",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Sorceries",
+    "effect": "Increases sorcery damage by 5% / 8% / 11%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Incantations",
+    "effect": "Increases incantation damage by 5% / 8% / 11%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Charged Sorceries",
+    "effect": "Increases the damage of charged sorceries by 9% / 13% / 18%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Charged Incantation",
+    "effect": "Increases the damage of charged incantations by 9% / 13% / 18%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Spell Casting Speed",
+    "effect": "Increases vdex by 30 / 60.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Regen",
+    "description": "Reduced Spell FP Cost",
+    "effect": "Reduces sorcery & incantations FP cost by 90% / 85% / 80%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Dmg Negation Up While Casting Spells",
+    "effect": "Increases damage negation by 18% / 24% / 30% during casting animation.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Ranged Weapon Attacks",
+    "effect": "Increases arrow/bolt damage by 7% / 10% / 14%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Projectile Damage Drop-Off Reduced",
+    "effect": "Reduces damage drop-off for projectiles traveling long distances by 30% / 40% / 50%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Skill Attack Power",
+    "effect": "Increases skill damage by 15% / 18% / 21%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Regen",
+    "description": "Reduced Skill FP Cost",
+    "effect": "Reduces skill FP cost by 88% / 82% / 76%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Guard Counters",
+    "effect": "Increases guard counter damage by 17% / 20% / 23%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Wraiths While Walking",
+    "effect": "Unleashes wraiths that chase down foes while walking.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Storm of Red Lightning While Walking",
+    "effect": "Walking calls red lightning which strikes the vicinity.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Exploration",
+    "description": "Improved Item Discovery",
+    "effect": "Increases item discovery by 20 / 30 / 40.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Less Likely to Be Targeted",
+    "effect": "Decreases target priority by 300 / 450 / 600.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Multiple Periodical Glintblades",
+    "effect": "Creates 5 glintblades every 18s. 60 magic attack and 1 poise damage per blade.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Many Periodical Glintblades",
+    "effect": "Creates 9 glintblades every 18s. 48 magic attack and 1 poise damage per blade.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Regen",
+    "description": "Continuous HP Recovery",
+    "effect": "Recovers 2 HP/s",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Landing Attacks",
+    "effect": "Restores 4 / 6 / 8 HP upon attacking enemies.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Landing Attacks",
+    "effect": "Restores 1 / 2 / 3 FP upon attacking enemies.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Successive Attacks Negate Damage",
+    "effect": "Increases damage negation by 38% / 48% / 60% with continuous attacks. Lasts for 30 seconds or until hit.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Regen",
+    "description": "Taking Damage Restores FP",
+    "effect": "Recovers 2 / 4 / 6 FP after taking damage.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Taking Damage Boosts Damage Negation",
+    "effect": "Increases damage negation by 21% / 28% / 36% for 10 seconds after taking damage.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Regen",
+    "description": "Defeating Enemies Restores HP",
+    "effect": "Restores 20 / 30 / 40 HP on enemy kill.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Regen",
+    "description": "Defeating Enemies Restores FP",
+    "effect": "Restores 4% / 6% / 8% of maximum FP on enemy kill.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attacks Summon Wraiths",
+    "effect": "Attacks have a chance to unleash wraiths that chase down foes.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attacks Release Mist of Charm",
+    "effect": "Attacks have a chance to produce a mist that charms enemies.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attacks Call Vengeful Spirits",
+    "effect": "Attacks have a chance to summon vengeful spirits that chase down foes.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attacks Generate Lava",
+    "effect": "Attacks have a chance to generate roiling lava.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attacks Release Mist of Frost",
+    "effect": "Attacks have a chance to release a mist of frost.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attacks Unleash Lightning",
+    "effect": "Attacks have a chance to unleash a bolt of lightning.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attacks Generate Golden Shockwave",
+    "effect": "Attacks have a chance to generate golden shockwaves.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Successful Guarding Ups Poise",
+    "effect": "Reduces incoming poise damage by 88% / 82% / 76% on successful guarding.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Successful Guarding Ups Dmg Negation",
+    "effect": "Increases damage negation by 14% / 19% / 24% on successful guarding.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power at Low HP",
+    "effect": "Increases damage by 7% / 11% / 13% / 17% / 21% when HP is below 20%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Damage Negation at Low HP",
+    "effect": "Increases damage negation by 23% / 30% / 37% when HP is below 40%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power at Full HP",
+    "effect": "Increases damage by 7% / 10.5% / 14% when HP is at 100%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Damage Negation at Full HP",
+    "effect": "Increases damage negation by 24% / 32% / 40% when HP is at 100%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Poison Produces a Mist of Poison",
+    "effect": "Creates a mist of poison when struck with poison.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Madness Produces a Frenzied Burst",
+    "effect": "Launches flame of frenzy when struck with madness.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Rot Produces a Mist of Scarlet Rot",
+    "effect": "Creates rot-inducing mist when struck with scarlet rot.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Frostbite Produces a Mist of Frost",
+    "effect": "Launches a mist of frost when struck with frost.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Sleep Produces a Mist of Sleep",
+    "effect": "Creates sleep-inducing mist when struck with sleep.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Projectiles upon Charged Strike",
+    "effect": "Charged strike produces magic projectiles.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Defensive",
+    "description": "Shielding Improves Damage Negation",
+    "effect": "Increases damage negation for magic, fire, lightning, holy, and ailments by keeping shield held up.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Shielding Invokes Indomitable Vow",
+    "effect": "Become invincible for a moment by keeping shield held up.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of Night and Flame",
+    "effect": "Adds 67 magic or fire AP to attacks for 30 seconds depending on stance used.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of Dark Moon",
+    "effect": "Attack kowers enemy magic damage negation by 15% for 20 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the Greater Will",
+    "effect": "Charge attacks produce waves of light.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the Blasphemous",
+    "effect": "Restores 100 HP upon enemy kill.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of House Marais",
+    "effect": "Increases damage by 0.8% upon enemy kill.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the Golden Order",
+    "effect": "Charge attacks heal all ailments and dispel all temporary effects.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of Destined Death",
+    "effect": "Deals 1% of Max HP + 2 dmg/0.1s for 0.8 seconds (8 total ticks) on each attack.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the Starscourge",
+    "effect": "The first blow of consecutive attacks creates a gravitational wave that pulls in enemies when wielding two swords.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of Destruction",
+    "effect": "Charge attacks cause a wave of gravitational force.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of Vengeance",
+    "effect": "Increases maximum HP, FP, stamina, and damage by 0.5%, damage negation by 1% and status resistances by 1 upon enemy kill.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the Dragonlord",
+    "effect": "Strong jump attacks transform the wielder into a thundercloud that plunges down with a lightning-infused blade.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of Despair",
+    "effect": "Attacked enemies become likely to die regardless of remaining HP.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the Omen King",
+    "effect": "Critical hits produce a burst of flame.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the Undefeated",
+    "effect": "Attacks after receiving damage partially recover HP.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the Queen",
+    "effect": "Charge attacks cause a holy shockwave.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the Lightless Void",
+    "effect": "Attacks send forth a dark cloud of stars on rare occasions that lingers briefly before exploding.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the Golden Lineage",
+    "effect": "Charge attacks cause an earth-shaking shockwave.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the Ancestral Spirit",
+    "effect": "Attacks lower enemy damage negations by 10% for 20 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the Great Ancient Dragon",
+    "effect": "Adds 67 lightning AP for 30 seconds after charged skill usage.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the Blood Lord",
+    "effect": "Increases damage by 30% for 20 seconds when bleed is triggered within 7m.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the Giant",
+    "effect": "Skill activation calls forth a barrage of flame pillars.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the Flying Dragon",
+    "effect": "Critical hits make the dragon spew flames.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the First Lord",
+    "effect": "Increases damage by 20% for 15 seconds after charged heavy usage.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of Full Moon",
+    "effect": "Casting spells dispel incoming sorceries and incantations, using their power to retaliate with glintblades.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Offensive",
+    "description": "Power of the General",
+    "effect": "Strong attack fires off a bundle of arrows.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Character",
+    "description": "The Wylder's Grief",
+    "effect": "Increases strength and dexterity by 3/6/9.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": "Wylder",
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Character",
+    "description": "The Guardian's Grief",
+    "effect": "Increases vigor and endurance by 3/6/9.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": "Guardian",
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Character",
+    "description": "The Ironeye's Grief",
+    "effect": "Increases endurance and dexterity by 3/6/9.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": "Ironeye",
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Character",
+    "description": "The Duchess' Grief",
+    "effect": "Increases dexterity and intelligence by 3/6/9.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": "Duchess",
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Character",
+    "description": "The Raider's Grief",
+    "effect": "Increases vigor and strength by 3/6/9.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": "Raider",
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Character",
+    "description": "The Revenant's Grief",
+    "effect": "Increases faith and arcane by 3/6/9.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": "Revenant",
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Character",
+    "description": "The Recluse's Grief",
+    "effect": "Increases mind and intelligence by 3/6/9.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": "Recluse",
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Character",
+    "description": "The Executor's Grief",
+    "effect": "Increases dexterity and arcane by 3/6/9.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": "Executor",
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Character",
+    "description": "The Scholar's Grief",
+    "effect": "Increases intelligence and arcane by 3/6/9.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": "Scholar",
+    "source": "weapon_passive"
+  },
+  {
+    "category": "Character",
+    "description": "The Undertaker's Grief",
+    "effect": "Increases strength and faith by 3/6/9.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": "Undertaker",
+    "source": "weapon_passive"
   }
 ]
