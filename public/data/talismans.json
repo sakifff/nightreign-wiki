@@ -1,374 +1,541 @@
 [
   {
-    "name": "Ancestral Spirit's Horn",
-    "effect_ingame": "Defeating enemies restores FP",
-    "effect": "Restores 5% of max FP when an enemy is killed",
+    "category": "Stat",
+    "description": "Increased Maximum HP",
+    "effect": "Maximum HP raised by 12%.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Arrow's Reach Talisman",
-    "effect_ingame": "Projectile damage drop-off reduced",
-    "effect": "Increases bowDistRate by 50",
+    "category": "Stat",
+    "description": "Increased Maximum FP",
+    "effect": "Maximum FP raised by 12%.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Arrow's Sting Talisman",
-    "effect_ingame": "Improved ranged weapon attacks",
-    "effect": "Increases arrow / bolt damage by 1.14x",
+    "category": "Stat",
+    "description": "Increased Maximum Stamina",
+    "effect": "Maximum Stamina raised by 12%.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Assassin's Cerulean Dagger",
-    "effect_ingame": "Critical hit FP restoration",
-    "effect": "Restores 10% of max FP on critical hits",
+    "category": "Stat",
+    "description": "Increased Maximum HP",
+    "effect": "Maximum HP raised by 7%.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Assassin's Crimson Dagger",
-    "effect_ingame": "Critical hit HP restoration",
-    "effect": "Restores 18% of max FP on critical hits",
+    "category": "Stat",
+    "description": "Increased Maximum Stamina",
+    "effect": "Maximum Stamina raised by 7%.",
+    "stackable": "TBD",
     "notes": null
   },
   {
-    "name": "Axe Talisman",
-    "effect_ingame": "Improved charge attacks",
-    "effect": "Increases charged heavy damage by 1.12x",
+    "category": "Exploration",
+    "description": "Improved Item Discovery",
+    "effect": "Increases item item discovery by 40.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Blessed Dew Talisman",
-    "effect_ingame": "Continuous HP recovery",
-    "effect": "Increases HP recovery by 2/s",
+    "category": "Exploration",
+    "description": "More Runes From Defeated Enemies",
+    "effect": "Increases rune gain by 15%.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Blue-Feathered Branchsword",
-    "effect_ingame": "Improved damage negation at low HP",
-    "effect": "Increases damage negation by 40% when HP is below 40%",
+    "category": "Regen",
+    "description": "Improved Stamina Recovery",
+    "effect": "Raises stamina recovery speed by 8 per second.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Boltdrake Talisman",
-    "effect_ingame": "Improved lightning damage negation",
-    "effect": "Increases lightning damage negation by 20%",
+    "category": "Defensive",
+    "description": "Improved Blood Loss Resistance",
+    "effect": "ncreases blood loss resistance by 75.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Bull-Goat's Talisman",
-    "effect_ingame": "Improved poise",
-    "effect": "Decreases incoming poise damage by 0.75x",
+    "category": "Defensive",
+    "description": "Improved Frost Resistance",
+    "effect": "Increases frost resistance by 75.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Carian Filgreed Crest",
-    "effect_ingame": "Reduced skill FP cost",
-    "effect": "Reduces FP cost of skills by 0.75x",
+    "category": "Defensive",
+    "description": "Improved Poison Resistance",
+    "effect": "Increases poison resistance by 75.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Cerulean Amber Medallion",
-    "effect_ingame": "Increased maximum FP",
-    "effect": "Increases FP by 1.12x",
+    "category": "Defensive",
+    "description": "Improved Rot Resistance",
+    "effect": "Increases rot resistance by 75.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Clarifying Horn Charm",
-    "effect_ingame": "Improved sleep and madness resistance",
-    "effect": "Increases sleep and madness resist by 75",
+    "category": "Defensive",
+    "description": "Improved Sleep Resistance",
+    "effect": "Increases sleep resistance by 75.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Claw Talisman",
-    "effect_ingame": "Improved jump attacks",
-    "effect": "Increases jump attack damage by 1.12x",
+    "category": "Defensive",
+    "description": "Improved Madness Resistance",
+    "effect": "Increases madness resistance by 75.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Companion Jar",
-    "effect_ingame": "Improved throwing pots",
-    "effect": "Increases damage of pots by 1.2x",
+    "category": "Defensive",
+    "description": "Improved Death Blight Resistance",
+    "effect": "Increases death blight resistance by 75.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Crimson Amber Medallion",
-    "effect_ingame": "Increased maximum HP",
-    "effect": "Increases HP by 1.12x",
+    "category": "Defensive",
+    "description": "Improved Poison & Rot Resistance",
+    "effect": "Increases poison & rot resistance by 40.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Crimson Seed Talisman",
-    "effect_ingame": "Improved flask HP restoration",
-    "effect": "Increases HP gained from flasks by 1.2x",
+    "category": "Defensive",
+    "description": "Improved Blood Loss & Frost Resistance",
+    "effect": "Increases blood loss & frost resistance by 40.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Crucible Feather Talisman",
-    "effect_ingame": "Improved dodging and impaired damage negation",
-    "effect": "+3 iFrames to all dodges in 30FPS or +6 iFrames in 60FPS.  Adds +1 iFrame to Duchess backstep in 30FPS or +2 in 60FPS",
+    "category": "Defensive",
+    "description": "Improved Sleep & Madness Resistance",
+    "effect": "Increases sleep & madness resistance by 40.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Poise",
+    "effect": "Reduces incoming poise damage by 25%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Skill Attack Power",
+    "effect": "Increases damage of skills by 15%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Stat",
+    "description": "Improved Dexterity",
+    "effect": "+5 Dexterity",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Successive Attacks Boost Attack Power",
+    "effect": "Increases damage by 4% / 6%/ 11% with continuous attacks.",
+    "stackable": "TBD",
+    "notes": "Most spells do not trigger. Bows cannot trigger"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Magic Attack Power",
+    "effect": "Increases magic damage by 15%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Curse",
+    "description": "Impaired Physical Damage Negation",
+    "effect": "Decreases physical damage negation by 10%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Lightning Attack Power",
+    "effect": "Increases lightning damage by 15%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Curse",
+    "description": "Impaired Physical Damage Negation",
+    "effect": "Decreases physical damage negation by 10%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Fire Attack Power",
+    "effect": "Increases fire damage by 15%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Curse",
+    "description": "Impaired Physical Damage Negation",
+    "effect": "Decreases physical damage negation by 10%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Holy Attack Power",
+    "effect": "Increases holy damage by 15%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Curse",
+    "description": "Impaired Physical Damage Negation",
+    "effect": "Decreases physical damage negation by 10%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power at Low HP",
+    "effect": "Increases damage by 20% when HP is below 20%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power at Full HP",
+    "effect": "Increases damage by 10% when HP is at 100%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Thrusting Counterattack",
+    "effect": "Increases counterattack damage by 20%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Guard Breaking",
+    "effect": "Increases stamina damage by 50%. Only relevant to enemies with a shield.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Successive Attacks Boost Attack Power",
+    "effect": "Increases damage by 4% / 6% / 11% with continuous attacks.",
+    "stackable": "TBD",
+    "notes": "Most spells do not trigger. Bows cannot trigger"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Critical Hits",
+    "effect": "Increases critical damage by 24%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Projectile Damage Drop-Off Reduced",
+    "effect": "Reduces damage drop-off by 50%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Chain Attack Finishers",
+    "effect": "Increases damage by 15% for the final light attack in a chain.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Charge Attacks",
+    "effect": "Increases charged heavy damage by 12%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Ranged Weapon Attacks",
+    "effect": "Increases arrow and bolt damage by 14%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Blood Loss in Vicinity Increases Attack Power",
+    "effect": "Increases damage by 20% for 20 seconds when bleed is triggered within 7m.",
+    "stackable": "Self Other",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Poison & Rot in Vicinity Increases Attack Power",
+    "effect": "Increases damage by 20% for 20 seconds when poison or rot is triggered within 7m.",
+    "stackable": "Self Other",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Jump Attacks",
+    "effect": "Increases jump attack damage by 12%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Roar & Breath Attacks",
+    "effect": "Increased damage of roar and breath attacks by 20%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Guard Counters",
+    "effect": "Increases guard counter damage by 20%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Throwing Pots",
+    "effect": "Increases damage of pots by 20%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Perfuming Arts",
+    "effect": "Increases damage of perfumes by 20%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Sorceries",
+    "effect": "Increases damage of sorceries by 11%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Incantations",
+    "effect": "Increases damage of incantations by 11%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Extended Spell Duration",
+    "effect": "Increases duration of spell buffs by 30%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Spell Casting Speed",
+    "effect": "Increases vdex by 60",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Reduced Spell FP Cost",
+    "effect": "Reduces FP cost of skills by 25%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Curse",
+    "description": "Reduced Maximum HP",
+    "effect": "Decreases max HP by 15%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Charged Spells & Skills",
+    "effect": "Increases charged skill and spell damage by 18%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Physical Damage Negation",
+    "effect": "Increases physical damage negation by 15%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Magic Damage Negation",
+    "effect": "Increases magic damage negation by 20%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Fire Damage Negation",
+    "effect": "Increases fire damage negation by 20%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Lightning Damage Negation",
+    "effect": "Increases lightning damage negation by 20%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Holy Damage Negation",
+    "effect": "Increases holy damage negation by 20%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Affinity Damage Negation",
+    "effect": "Increases magic/fire/lightning/holy damage negation by 10%.",
+    "stackable": "Yes",
+    "notes": null
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Dodging",
+    "effect": "Adds 3 invicible frames to roll (at 30fps)",
+    "stackable": "No",
     "notes": "Does not stack with Improved Dodge Dormant Power or the Recluse's triple Lightning cocktail"
   },
   {
-    "name": "Curved Sword Talisman",
-    "effect_ingame": "Improved guard counters",
-    "effect": "Increases guard counter damage by 1.2x",
+    "category": "Curse",
+    "description": "Impaired Damage Negation",
+    "effect": "Decreases damage negations by 10%.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Dagger Talisman",
-    "effect_ingame": "Improved critical hits",
-    "effect": "Increases critical damage by 1.24x",
+    "category": "Defensive",
+    "description": "Improved Damage Negation at Low HP",
+    "effect": "Increases damage negation by 40% when HP is below 40%.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Dragoncrest Shield Talisman",
-    "effect_ingame": "Improved damage negation",
-    "effect": "Increases physical damage negation by 15%",
+    "category": "Defensive",
+    "description": "Improved Damage Negation at Full HP",
+    "effect": "Increases damage negation by 30% when HP is at 100%.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Erdtree's Favor",
-    "effect_ingame": "Increased maximum HP, increased maximum stamina",
-    "effect": "Increases HP and stamina by 1.07x",
+    "category": "Defensive",
+    "description": "Improved Guarding Ability",
+    "effect": "Decreases incoming stamina damage by 20%.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Faithful's Canvas Talisman",
-    "effect_ingame": "Improved incantations",
-    "effect": "Increases damage of incantations by 1.11x",
+    "category": "Regen",
+    "description": "Improved Flask HP Restoration",
+    "effect": "Increases HP gained from flasks by 20%.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Fire Scorpion Charm",
-    "effect_ingame": "Improved fire attack power and impaired physical damage negation",
-    "effect": "Increases fire damage by 1.15x and decreases physical damage negation by 10%",
+    "category": "Regen",
+    "description": "Continuous HP Recovery",
+    "effect": "Recovers 2 HP /s",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Flamedrake Talisman",
-    "effect_ingame": "Improved fire damage negation",
-    "effect": "Increases fire damage negation by 20%",
+    "category": "Regen",
+    "description": "Defeating Enemies Restores HP",
+    "effect": "Restores 6% of Max HP when an enemy is killed.",
+    "stackable": "Self Other",
     "notes": null
   },
   {
-    "name": "Godfrey Icon",
-    "effect_ingame": "Improved charged spells and skills",
-    "effect": "Increases charged skill and spell damage by 1.18x",
+    "category": "Regen",
+    "description": "Successive Attack HP Restoration",
+    "effect": "Restores 6% of Max HP with continuous attacks.",
+    "stackable": "TBD",
     "notes": null
   },
   {
-    "name": "Godskin Swaddling Cloth",
-    "effect_ingame": "Successive attack HP restoration",
-    "effect": "Restores 6% of max HP with continuous attacks",
+    "category": "Regen",
+    "description": "Critical Hit HP Restoration",
+    "effect": "Restores 18% of Max HP on critical hits.",
+    "stackable": "Self Other",
     "notes": null
   },
   {
-    "name": "Gold Scarab",
-    "effect_ingame": "More runes from defeated enemies",
-    "effect": "Increases rune gain by 15%",
+    "category": "Regen",
+    "description": "Critical Hit FP Restoration",
+    "effect": "Restores 10% of Max FP on critical hits.",
+    "stackable": "Self Other",
     "notes": null
   },
   {
-    "name": "Graven-School Talisman",
-    "effect_ingame": "Improved sorceries",
-    "effect": "Increases damage of sorceries by 1.11x",
+    "category": "Offensive",
+    "description": "Reduced Skill FP Cost",
+    "effect": "Reduces FP cost of skills by 25%.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Greatshield Talisman",
-    "effect_ingame": "Improved guarding ability",
-    "effect": "Decreases incoming stamina damage when guarding by 0.8x",
+    "category": "Exploration",
+    "description": "No Rune Loss or Level Down Upon Death",
+    "effect": "No description available.",
+    "stackable": "TBD",
     "notes": null
   },
   {
-    "name": "Green Turtle Talisman",
-    "effect_ingame": "Improved stamina recovery",
-    "effect": "Increases stamina regen by 8/s",
+    "category": "Regen",
+    "description": "Defeating Enemies Restores FP",
+    "effect": "Restores 5% of Max FP when an enemy is killed.",
+    "stackable": "Self Other",
     "notes": null
   },
   {
-    "name": "Haligdrake Talisman",
-    "effect_ingame": "Improved holy damage negation",
-    "effect": "Increases holy damage negation by 20%",
+    "category": "Exploration",
+    "description": "Improved Item Discovery",
+    "effect": "Increases item discovery by 60.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Hammer Talisman",
-    "effect_ingame": "Improved guard breaking",
-    "effect": "Increases stamina damage by 1.5x",
-    "notes": "Only relevant for enemies with a shield"
-  },
-  {
-    "name": "Immunizing Horn Charm",
-    "effect_ingame": "Improved poison and rot resistance",
-    "effect": "Increases poison and rot resist by 75",
+    "category": "Exploration",
+    "description": "More Runes From Defeated Enemies",
+    "effect": "Increases rune gain by 20%.",
+    "stackable": "Yes",
     "notes": null
   },
   {
-    "name": "Kindred of Rot's Exultation",
-    "effect_ingame": "Poison & rot improves attack power",
-    "effect": "Increases damage by 1.2x for 20 seconds when poison or rot is triggered within 7m",
+    "category": "Curse",
+    "description": "Continuous HP Loss",
+    "effect": "Decreases HP by 10/s",
+    "stackable": "TBD",
     "notes": null
-  },
-  {
-    "name": "Lightning Scorpion Charm",
-    "effect_ingame": "Improved lightning attack power and impaired physical damage negation",
-    "effect": "Increases lightning damage by 1.15x and decreases physical damage negation by 0.9x",
-    "notes": null
-  },
-  {
-    "name": "Lord of Blood's Exultation",
-    "effect_ingame": "Blood loss in vicinity increases attack power",
-    "effect": "Increases damage by 1.2x for 20 seconds when bleed is triggered within 7m",
-    "notes": null
-  },
-  {
-    "name": "Magic Scorpion Charm",
-    "effect_ingame": "Improved magic attack power and impaired physical damage negation",
-    "effect": "Increases magic damage by 1.15x and decreases physical damage negation by 0.9x",
-    "notes": null
-  },
-  {
-    "name": "Millicent's Prosthesis",
-    "effect_ingame": "Improved dexterity and successive attacks boost attack power",
-    "effect": "Increases dexterity by 5 and increases damage by 1.04x/1.06x/1.11x/1.11x with continuous attacks",
-    "notes": "Most spells do not trigger. Bows cannot trigger"
-  },
-  {
-    "name": "Mottled Necklace",
-    "effect_ingame": "Improved poison, rot, blood loss, frost, sleep, and madness resistance",
-    "effect": "Increases poison, rot, blood loss, frost, sleep, and madness resist by 40",
-    "notes": null
-  },
-  {
-    "name": "Old Lord's Talisman",
-    "effect_ingame": "Extended spell duration",
-    "effect": "Increases duration of spell buffs by 1.3x",
-    "notes": null
-  },
-  {
-    "name": "Pearldrake Talisman",
-    "effect_ingame": "Improved non-physical damage negation",
-    "effect": "Increases magic/fire/lightning/holy damage negation by 10%",
-    "notes": null
-  },
-  {
-    "name": "Perfumer's Talisman",
-    "effect_ingame": "Improved performing arts",
-    "effect": "Increases damage of perfumes by 1.2x",
-    "notes": null
-  },
-  {
-    "name": "Primal Glintstone Blade",
-    "effect_ingame": "Reduced spell FP cost and maximum HP down",
-    "effect": "Decreases spell FP cost by 0.75x and decreases max HP by 0.94x",
-    "notes": null
-  },
-  {
-    "name": "Prince of Death's Pustule",
-    "effect_ingame": "Improved deathblight resistance",
-    "effect": "Increases deathblight resist by 75",
-    "notes": null
-  },
-  {
-    "name": "Radagon Icon",
-    "effect_ingame": "Improved spell casting speed",
-    "effect": "Increases vdex by 60",
-    "notes": null
-  },
-  {
-    "name": "Red-Feathered Branchsword",
-    "effect_ingame": "Improved attack power at low HP",
-    "effect": "Increases damage by 1.2x when HP is below 20%",
-    "notes": null
-  },
-  {
-    "name": "Ritual Shield Talisman",
-    "effect_ingame": "Improved damage negation at full HP",
-    "effect": "Increases damage negation by 30% when HP is at 100%",
-    "notes": null
-  },
-  {
-    "name": "Ritual Sword Talisman",
-    "effect_ingame": "Improved attack power at full HP",
-    "effect": "Increases damage by 1.1x when HP is at 100%",
-    "notes": null
-  },
-  {
-    "name": "Roar Medallion",
-    "effect_ingame": "Improved roar & breath attacks",
-    "effect": "Increased damage of roar and breath attacks by 1.2x",
-    "notes": null
-  },
-  {
-    "name": "Sacred Scorpion Charm",
-    "effect_ingame": "Improved holy attack power and impaired physical damage negation",
-    "effect": "Increases holy damage by 1.15x and decreases physical damage negation by 10%",
-    "notes": null
-  },
-  {
-    "name": "Sacrificial Twig",
-    "effect_ingame": "No rune loss or level down upon death",
-    "effect": "Self-explanatory",
-    "notes": null
-  },
-  {
-    "name": "Silver Scarab",
-    "effect_ingame": "Improved item discovery",
-    "effect": "Increases discovery by 40",
-    "notes": null
-  },
-  {
-    "name": "Spear Talisman",
-    "effect_ingame": "Improved thrusting counterattack",
-    "effect": "Increases counterhit damage by 1.2x",
-    "notes": null
-  },
-  {
-    "name": "Spelldrake Talisman",
-    "effect_ingame": "Improved magic damage negation",
-    "effect": "Increases magic damage negation by 20%",
-    "notes": null
-  },
-  {
-    "name": "Stalwart Horn Charm",
-    "effect_ingame": "Improved blood loss and frost resistance",
-    "effect": "Increases blood loss and frost resist by 75",
-    "notes": null
-  },
-  {
-    "name": "Symbol of Avarice",
-    "effect_ingame": "Improved item discovery, more runes from defeated enemies, and continuous HP loss",
-    "effect": "Increases discovery by 60, increases rune gain by 20%, decreases HP by 10/s",
-    "notes": null
-  },
-  {
-    "name": "Taker's Cameo",
-    "effect_ingame": "Defeating enemies restores HP",
-    "effect": "Restores 6% of max HP when an enemy is killed",
-    "notes": null
-  },
-  {
-    "name": "Twinblade Talisman",
-    "effect_ingame": "Improved chain attack finishers",
-    "effect": "Increases damage by 1.15x with the final light attack in a chain",
-    "notes": null
-  },
-  {
-    "name": "Viridian Amber Medallion",
-    "effect_ingame": "Increased maximum stamina",
-    "effect": "Increases stamina by 1.12x",
-    "notes": null
-  },
-  {
-    "name": "Warrior Jar Shard",
-    "effect_ingame": "Improved skill attack power",
-    "effect": "Increases damage of skills by 1.15x",
-    "notes": null
-  },
-  {
-    "name": "Winged Sword Insignia",
-    "effect_ingame": "Successive attacks boost attack power",
-    "effect": "Increases damage by 1.03x/1.05x/1.1x/1.1x with continuous attacks",
-    "notes": "Most spells do not trigger. Bows cannot trigger"
   }
 ]
