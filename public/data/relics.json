@@ -1,1 +1,4943 @@
-[]
+[
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Successive Attacks",
+    "effect": "Restores 5% of max FP after continuous attacks. Only affects melee attacks.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Taking attacks improves attack power",
+    "effect": "15% damage buff after taking a hit. Lasts for for 10 seconds. Duration refreshes when getting hit again. Does not trigger if hit was blocked.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP restored when using medicinal boluses etc. +1",
+    "effect": "Restores 33 HP from using certain consumables.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP restored when using medicinal boluses etc. +2",
+    "effect": "Restores 40 HP from using certain consumables.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Sleep in Vicinity Improves Attack Power When nearby enemy or ally is inflicted with sleep",
+    "effect": "damage increases by 12% for 20 seconds.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Sleep in Vicinity Improves Attack Power When nearby enemy or ally is inflicted with sleep +1",
+    "effect": "damage increases by 22% for 20 seconds.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Madness in Vicinity Improves Attack Power When nearby enemy or ally is inflicted with madness",
+    "effect": "damage increases by 12% for 20 seconds.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Madness in Vicinity Improves Attack Power When nearby enemy or ally is inflicted with madness +1",
+    "effect": "damage increases by 22% for 20 seconds.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Recluse] Improved Vigor, Endurance and Dexterity, Reduced Intelligence and Faith",
+    "effect": "Increases vigor by 4, endurance by 5 and dexterity by 20. Decreases intelligence and faith by 10. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Recluse",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Vigor +1",
+    "effect": "+ 20 Max HP",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Vigor +2",
+    "effect": "+ 40 Max HP",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Vigor +3",
+    "effect": "+ 60 Max HP",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Mind +1",
+    "effect": "+ 5 Max FP",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Mind +2",
+    "effect": "+ 10 Max FP",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Mind +3",
+    "effect": "+ 15 Max FP",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Endurance +1",
+    "effect": "+ 2 Max Stamina",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Endurance +2",
+    "effect": "+ 4 Max Stamina",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Endurance +3",
+    "effect": "+ 6 Max Stamina",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Strength +1",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Strength +2",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Strength +3",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Dexterity +1",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Dexterity +2",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Dexterity +3",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Intelligence +1",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Intelligence +2",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Intelligence +3",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Faith +1",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Faith +2",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Faith +3",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Arcane +1",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Arcane +2",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Arcane +3",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Character Skill Cooldown Reduction +1",
+    "effect": "Reduces skill cooldown by 5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Character Skill Cooldown Reduction +2",
+    "effect": "Reduces skill cooldown by 7.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Character Skill Cooldown Reduction +3",
+    "effect": "Reduces skill cooldown by 10%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Ultimate Art Auto Charge +1",
+    "effect": "Increases ultimate gauge gain by 5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Ultimate Art Auto Charge +2",
+    "effect": "Increases ultimate gauge gain by 7.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Ultimate Art Auto Charge +3",
+    "effect": "Increases ultimate gauge gain by 10%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Poise +1",
+    "effect": "Reduces incoming poise damage by 5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Poise +2",
+    "effect": "Reduces incoming poise damage by 10%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Poise +3",
+    "effect": "Reduces incoming poise damage by 15%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Continuous HP Recovery",
+    "effect": "Recovers 2 HP/s.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Physical Attack Up",
+    "effect": "Increases physical damage by 4%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Physical Attack Up +1",
+    "effect": "Increases physical damage by 5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Physical Attack Up +2",
+    "effect": "Increases physical damage by 6%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Magic Attack Power Up",
+    "effect": "Increases magic damage by 4.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Magic Attack Power Up +1",
+    "effect": "Increases magic damage by 5.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Magic Attack Power Up +2",
+    "effect": "Increases magic damage by 6.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Fire Attack Power Up",
+    "effect": "Increases fire damage by 4.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Fire Attack Power Up +1",
+    "effect": "Increases fire damage by 5.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Fire Attack Power Up +2",
+    "effect": "Increases fire damage by 6.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Lightning Attack Power Up",
+    "effect": "Increases lightning damage by 4.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Lightning Attack Power Up +1",
+    "effect": "Increases lightning damage by 5.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Lightning Attack Power Up +2",
+    "effect": "Increases lightning damage by 6.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Holy Attack Power Up",
+    "effect": "Increases holy damage by 4.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Holy Attack Power Up +1",
+    "effect": "Increases holy damage by 5.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Holy Attack Power Up +2",
+    "effect": "Increases holy damage by 6.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Magic Damage Negation Up",
+    "effect": "Increases magic damage negation by 10%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Fire Damage Negation Up",
+    "effect": "Increases fire damage negation by 10%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Lightning Damage Negation Up",
+    "effect": "Increases lightning damage negation by 10%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Holy Damage Negation Up",
+    "effect": "Increases holy damage negation by 10%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Poison Resistance",
+    "effect": "Increases poison resistance by 75.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Blood Loss Resistance",
+    "effect": "Increases blood loss resistance by 75.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Sleep Resistance",
+    "effect": "Increases sleep resistance by 75.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Death Blight Resistance",
+    "effect": "Increases death blight resistance by 75.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Rot Resistance",
+    "effect": "Increases rot resistance by 75.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Frost Resistance",
+    "effect": "Increases frost resistance by 75.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Madness Resistance",
+    "effect": "Increases madness resistance by 75.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Partial HP Restoration upon Post-Damage Attacks",
+    "effect": "After taking damage, dealing damage (within about 4 seconds) restores HP, up to the pale section of your health bar. Does not stack with Hand of Malenia, nor Favor of the Rotted Woods.",
+    "stackable": "SelfTBD",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Stance-Breaking when Two-Handing",
+    "effect": "Increases poise damage by 5% when two-handing the weapon.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Stance-Breaking when Wielding Two Armaments",
+    "effect": "Increases poise damage by 5% when dual wielding 2 weapons of the same type.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Physical Damage Negation",
+    "effect": "Increases physical damage negation by 10%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Extended Spell Duration",
+    "effect": "Increase duration of spell buffs by 50%.",
+    "stackable": "TBD",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Continuous FP Recovery",
+    "effect": "Restores 1 FP every 5 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Melee Attack Power",
+    "effect": "Increases melee damage by 6%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Skill Attack Power",
+    "effect": "Increases skill damage by 15%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Flask Also Heals Allies",
+    "effect": "Heals allies for 50% of flask HP in a radius.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Wylder] Art activation spreads fire in area",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Wylder",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Duchess] Reprise events upon nearby enemies by landing the final blow of a chain attack with dagger",
+    "effect": "Restage triggered this way inflicts 36% (1-handed R1) to 39% (2-handed R1 or powerstance L1) of the base damage. It is not affected by \"Improved Character Skill Attack Power\". Only one instance of Restage can be in effect at a time.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Duchess",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Revenant] Expend own HP to fully heal nearby allies when activating Art",
+    "effect": "Decreases current HP by 50% on ultimate usage.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Revenant",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Guardian] Increased duration for Character Skill",
+    "effect": "Allows you to briefly charge this skill to trigger a bigger AoE and longer lasting tornado. Can block projectile attacks.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Guardian",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Revenant] Trigger ghostflame explosion during Ultimate Art activation",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Revenant",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Guardian] Creates whirlwind when charging halberd attacks",
+    "effect": "Charged heavy halberd attacks create whirlwinds that do additional damage with slight AOE.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Guardian",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Executor] Roaring restores HP while Art is active",
+    "effect": "Roar while transformed to heal 15% of max HP to self and nearby allies.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Executor",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Guardian] Slowly restores nearby allies' HP while Art is active",
+    "effect": "After landing with Wings of Salvation, continue holding the Ultimate Art button to heal allies within the protective aura for (10% + 12) HP per half second.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Guardian",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Slowly restore HP for self and nearby allies when HP is low",
+    "effect": "When HP falls under 20%, gains a buff that restores HP at a rate of (0.5% + 1) HP per second, for 50 seconds. Does not cancel early if you heal past 20%. Taking an attack that puts you below this threshold resets the duration.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Damage Negation at Low HP",
+    "effect": "Increases damage negation by 16% when HP is below 40%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Wylder] Standard attacks enhanced with fiery follow-ups when using Character Skill (greatsword only)",
+    "effect": "Shortly after using Claw Shot, performing a light attack conducts a flaming strike that gives the greatsword additional +12 Fire Damage for 20 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Wylder",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Poise Near Totem Stela",
+    "effect": "Reduces stance damage by 90% near Totem Stela.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP restored when using medicinal boluses etc.",
+    "effect": "Eating cured meats and boluses restores 30 HP.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Successful guarding fills more of the Art gauge",
+    "effect": "Gain 1% Ultimate Art Gauge when guarding.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Draw enemy attention while guarding",
+    "effect": "Draws enemy aggro only after successfully guarding an enemy attack not when you are in the blocking state.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Critical hits fill more of the Art gauge",
+    "effect": "Gain 5% Ultimate Art Gauge on critical hit.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Physical attack power increases after using grease items",
+    "effect": "+10% damage for 30 seconds after using a grease.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Revenant] Strengthens family and allies when Ultimate Art is activated",
+    "effect": "After using Immortal March, all family and living allies get +25% damage for 30 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Revenant",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Raider] Damage taken while using Character Skill improves attack power and stamina",
+    "effect": "When taking damage during the Retaliate wind-up, +10% damage and +20% Stamina for 20 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Raider",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Duchess] Become difficult to spot and silence footsteps after landing critical from behind",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Duchess",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Critical Hits Earn Runes",
+    "effect": "Gain 600 runes on critical hits.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Wylder] Art gauge greatly filled when ability is activated",
+    "effect": "+18% Ultimate Art Gauge after cheating death with Sixth Sense.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Wylder",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Duchess] Defeating enemies while Art is active ups attack power",
+    "effect": "While invisible after using Finale, gain +15% damage for 30 seconds after any team member kills an enemy.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Duchess",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Recluse] Collecting affinity residue activates Terra Magica",
+    "effect": "Sigil increases magic damage by 15%, lasts 30s. Cannot spawn a new terra magica while previous one is still active.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Recluse",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Recluse] Suffer blood loss and increase attack power upon Art activation",
+    "effect": "After activating Soulblood Song, lose 20% of max HP through blood loss and gain an additional +16% damage for 30 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Recluse",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Wylder] +1 additional Character Skill use",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Wylder",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Guardian] Successful guards send out shockwaves while ability is active",
+    "effect": "Blocking enemy attack with Steel Guard creates small shockwaves that can damage nearby enemies and stagger nearby small enemies.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Guardian",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Recluse] Activating Ultimate Art raises Max HP",
+    "effect": "After activating Soulblood Song, gain +50% max HP for 30 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Recluse",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Executor] Character Skill Boosts Attack but Lowers Damage Negation While Attacking",
+    "effect": "Increases damage by 35% for 6 seconds and lowers damage negation by 40% for 5 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Executor",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Executor] While Character Skill is active, unlocking use of cursed sword restores HP",
+    "effect": "After parrying enough hits for the Cursed Sword to glow, restore 100 HP + 5% of Max HP.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Executor",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Ironeye] Art Charge Activation Adds Poison Effect",
+    "effect": "When Single Shot is fully charged it inflicts 300 Poison buildup to its primary target.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Ironeye",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Ironeye] Boosts thrusting counterattacks after executing Art",
+    "effect": "After executing Single Shot, thrusting counterattacks inflict +20% damage for 30 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Ironeye",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Critical Hit Boosts Stamina Recovery Speed",
+    "effect": "After a critical hit, stamina recovery +10/second for 15 seconds.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Gesture \"Crossed Legs\" Builds Up Madness",
+    "effect": "While the gesture is active receive 10 Madness buildup every 2 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Madness Continually Recovers FP",
+    "effect": "After getting inflicted with Madness regain 2 FP per second for 25 seconds.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Switching Weapons Adds an Affinity Attack",
+    "effect": "When switching weapons the weapon you switch to is infused with a random element gaining 12 additional damage for 10 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Boosts Attack Power of Added Affinity Attacks",
+    "effect": "Increases Affinity Attack Power by 10%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Switching Weapons Boosts Attack Power",
+    "effect": "Increase physical damage by 10% for 10 seconds after switching weapons.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Recovery From Successful Guarding",
+    "effect": "Guarding recovers 15 HP.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Scholar] Prevent slowing of Character Skill progress",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Scholar",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Scholar] Allies targeted by Character Skill gain boosted attack",
+    "effect": "Allies gain 20% physical damage and 15% affinity damage for 30 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Scholar",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Scholar] Continuous damage inflicted on targets threaded by Ultimate Art",
+    "effect": "Inflicts 15 damage per second for 20 seconds on targets.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Scholar",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Scholar] Earn runes for each additional specimen acquired with Character Skill",
+    "effect": "Gain 1300 runes per specimen acquired.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Scholar",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Undertaker] Activating Ultimate Art increases attack power",
+    "effect": "Increases damage by 14% for 40 seconds when activating Ultimate Art.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Undertaker",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Undertaker] Attack power increased by landing the final blow of a chain attack",
+    "effect": "Increases damage by 16% for 20 seconds when landing the final chain attack.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Undertaker",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Undertaker] Physical attacks boosted while assist effect from incantation is active for self",
+    "effect": "Increases damage by 19% for 60 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Undertaker",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Undertaker] Contact with allies restores their HP while Ultimate Art is activated",
+    "effect": "Restores allies HP by 100 + 30% of Max HP on contact with Ultimate Art.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Undertaker",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Successive Attacks Boost Attack Power",
+    "effect": "Increases damage by 5% / 6.5% / 9% with continuous attacks.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Status Ailment Gauges Slowly Increase Attack Power",
+    "effect": "No description available.",
+    "stackable": "TBD",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Occasionally Nullify Attacks When Damage Negation is Lowered",
+    "effect": "No description available.",
+    "stackable": "TBD",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Initial Standard Attack",
+    "effect": "Increases the damage of the first light attack by 15%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Guard Counters",
+    "effect": "Increases guard counter damage by 23%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Critical Hits",
+    "effect": "Increases critical hit damage by 18%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Critical Hits +1",
+    "effect": "Increases critical hit damage by 23%. Does not stack with itself.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Throwing Pot Damage",
+    "effect": "Increases Pot Damage by 15%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Throwing Knife Damage",
+    "effect": "Increases Knife Damage by 15%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Glintstone and Gravity Stone Damage",
+    "effect": "Increases Stone Damage by 15%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Roar & Breath Attacks",
+    "effect": "Roar/breath attack damage +15%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Perfuming Arts",
+    "effect": "Increases Perfuming Arts Damage by +15%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Stonedigger Sorcery",
+    "effect": "Increases Stonedigger Sorcery damage by +12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Carian Sword Sorcery",
+    "effect": "Increases Carian Sword Sorcery damage by +12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Glintblade Sorcery",
+    "effect": "Increases Glintblade Sorcery damage by +12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Invisibility Sorcery",
+    "effect": "Increases Invisibility Sorcery damage by +12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Crystalian sorcery",
+    "effect": "Increases Crystalian Sorcery damage by +12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Gravity Sorcery",
+    "effect": "Increases Gravity Sorcery damage by +12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Thorn Sorcery",
+    "effect": "Increases Thorn Sorcery damage by +12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Night Sorcery",
+    "effect": "Increases Night Sorcery damage by +12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Fundamentalist Incantations",
+    "effect": "Increases Fundamentalist Incantations damage by +12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Dragon Cult Incantations",
+    "effect": "Increases Dragon Cult Incantations damage by +12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Giants' Flame Incantations",
+    "effect": "Increases Giants' Flame Incantations damage by +12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Godslayer Incantations",
+    "effect": "Increases Godslayer Incantations damage by +12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Bestial Incantations",
+    "effect": "Increases Bestial Incantations damage by +12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Frenzied Flame Incantations",
+    "effect": "Increases Frenzied Flame Incantations damage by +12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Dragon Communion Incantations",
+    "effect": "Increases Dragon Communion Incantations damage by +12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Raised stamina recovery for nearby allies but not for self",
+    "effect": "Increases allies' stamina recovery speed by 4s.",
+    "stackable": "TBD",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Items confer effect to all nearby allies",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Attack power increased for each evergaol prisoner defeated",
+    "effect": "Increases damage by 5% per defeated Evergaol boss.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Max FP increased for each Sorcerer's Rise unlocked",
+    "effect": "Increases max FP by 18% for each Sorcerer's Rise released.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Attack power increased for each Night Invader defeated",
+    "effect": "Increases damage by 7% per defeated invader.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Treasure marked upon map",
+    "effect": "Reveals Buried Treasure on the map.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Daggers Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Daggers in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Straight Swords Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Straight Swords in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Greatswords Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Greatswords in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Colossal Swords Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Colossal Swords in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Curved Swords Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Curved Swords in inventory",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Curved Greatswords Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Curved Greatswords in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Katana Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Katana in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Twinblades Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Twinblades in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Thrusting Swords Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Thrusting Swords in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Heavy Thrusting Swords Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Heavy Thrusting Swords in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Axes Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Axes in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Greataxes Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Greataxes in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Hammers Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Hammers in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Great Hammers Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Great Hammers in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Flails Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Flails in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Spears Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Spears in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Great Spears Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Great Spears in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Halberds Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Halberds in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Reapers Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Reapers in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Fists Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Fists in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Claws Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Claws in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Whips Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Whips in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Colossal Weapons Equipped",
+    "effect": "Increases all damage by 20% with 3 or more Colossal Weapons in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Attack Power with 3+ Bows Equipped",
+    "effect": "Increases all damage by 10% with 3 or more Bows in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Max FP Up with 3+ Staves Equipped",
+    "effect": "+50 max FP with 3 or more Staves in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Max FP Up with 3+ Sacred Seals Equipped",
+    "effect": "+50 max FP with 3 or more Sacred Seals in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Max HP Up with 3+ Small Shields Equipped",
+    "effect": "+200 Max HP with 3 or more Small Shields in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Max HP Up with 3+ Medium Shields Equipped",
+    "effect": "+200 Max HP with 3 or more Medium Shields in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Max HP Up with 3+ Greatshields Equipped",
+    "effect": "+200 Max HP with 3 or more Greatshields in inventory.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Defeating enemies fills more of the Art gauge",
+    "effect": "Ultimate Art Gauge increases by 5% for each enemy you kill.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Defeating enemies restores HP for allies but not for self",
+    "effect": "Allies healed for 20 HP when enemies are killed.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Defeating enemies near Totem Stela restores HP",
+    "effect": "Heals 50% of max HP for each enemy defeated near an active Totem Stela.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Stamina Recovery upon Landing Attacks",
+    "effect": "+2 Stamina regained per attack.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Stamina Recovery upon Landing Attacks +1",
+    "effect": "+3 Stamina regained per attack. Stacks with its weaker version.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Increased rune acquisition for self and allies",
+    "effect": "+3.5% rune gain for self and allies.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Starting armament deals magic damage",
+    "effect": "Decreases starting weapon's physical damage by 30/40/50/60 and adds 33/44/55/66 magic damage. The exact amount depends on the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Starting armament deals fire damage",
+    "effect": "Decreases starting weapon's physical damage by 30/40/50/60 and adds 33/44/55/66 fire damage. The exact amount depends on the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Starting armament deals lightning damage",
+    "effect": "Decreases starting weapon's physical damage by 30/40/50/60 and adds 33/44/55/66 lightning damage. The exact amount depends on the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Starting armament deals holy damage",
+    "effect": "Decreases starting weapon's physical damage by 30/40/50/60 and adds 33/44/55/66 holy damage. The exact amount depends on the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Starting armament inflicts frost",
+    "effect": "Decreases starting weapon's damage by 15% and add 35 frost buildup.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Starting armament inflicts poison",
+    "effect": "Decreases starting weapon's damage by 15% and add 35 poison buildup.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Starting armament inflicts blood loss",
+    "effect": "Decreases starting weapon's damage by 15% and add 25 blood loss buildup.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Stonesword Key in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Small Pouch in possession at start of expedition",
+    "effect": "+1 inventory slot during expedition.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Fire Pots in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Magic Pots in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Lightning Pots in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Holy Water Pots in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Poisonbone Darts in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Crystal Darts in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Throwing Daggers in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Glintstone Scraps in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Gravity Stone Chunks in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Bewitching Branches in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Wraith Calling Bell in possession at start of expedition",
+    "effect": "The effect may stack but only one bell can be used at a time.",
+    "stackable": "TBD",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Fire Grease in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Magic Grease in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Lightning Grease in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Holy Grease in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Shield Grease in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Glintblade Phalanx at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Gravitas at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Flaming Strike at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Eruption at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Thunderbolt at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Lightning Slash at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Sacred Blade at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Prayerful Strike at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Poisonous Mist at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Poison Moth Flight at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Blood Blade at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Seppuku at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Chilling Mist at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Hoarfrost Stomp at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to White Shadow's Lure at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Endure at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Quickstep at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Storm Stomp at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Determination at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's skill to Rain of Arrows at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Starlight Shards in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Guard counter is given a boost based on current HP",
+    "effect": "Guard counter does 0.045/0.050/0.055 additional damage per 1 HP. Exact number depends on weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Thrusting Counterattack",
+    "effect": "Restores 2.5% of max HP with thrusting counterattacks.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attacks Inflict Rot when Damage is Taken",
+    "effect": "No description available.",
+    "stackable": "TBD",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Revenant] Power up while fighting alongside family",
+    "effect": "Helen provides 1 HP/s, Frederick provides 10% damage, and Sebastian provides 20% elemental damage negation.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Revenant",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Rune discount for shop purchases while on expedition",
+    "effect": "Provides a 10% discount at merchants.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Huge rune discount for shop purchases while on expedition",
+    "effect": "Provides a 20% discount at merchants.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Poise & Damage Negation When Knocked Back by Damage",
+    "effect": "After taking damage that knocks you back, reduce damage taken and stance damage taken by 20% for 30 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attack power up when facing poison-afflicted enemy",
+    "effect": "+10% damage against poisoned enemies.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attack power up when facing scarlet rot-afflicted enemy",
+    "effect": "+10% damage against rot-afflicted enemies.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attack power up when facing frostbite-afflicted enemy",
+    "effect": "+10% damage against frostbitten enemies.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Frostbite in Vicinity Conceals Self",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Poison & Rot in Vicinity Increases Attack Power",
+    "effect": "When nearby enemy or ally is inflicted with poison or rot, damage increases by 12% for 20 seconds.",
+    "stackable": "SelfOther",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Rot in Vicinity Causes Continuous HP Recovery",
+    "effect": "No description available.",
+    "stackable": "TBD",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Ironeye] +1 additional Character Skill use",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Ironeye",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Ironeye] Extends duration of weak point",
+    "effect": "Marking base duration extended from 17.5 seconds to 22 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Ironeye",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Duchess] Improved Character Skill Attack Power",
+    "effect": "Increases Restage damage from 50% to 60% of the original damage.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Duchess",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Raider] Duration of Ultimate Art extended",
+    "effect": "Totem Stela duration increased from 20 seconds to 30 seconds.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Raider",
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Dagger Attack Power",
+    "effect": "Increases Dagger damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Straight Sword Attack Power",
+    "effect": "Increases Straight damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Greatsword Attack Power",
+    "effect": "Increases Greatsword damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Colossal Sword Attack Power",
+    "effect": "Increases Colossal Sword damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Curved Sword Attack Power",
+    "effect": "Increases Curved Sword damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Curved Greatsword Attack Power",
+    "effect": "Increases Curved Greatsword damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Katana Attack Power",
+    "effect": "Increases Katana damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Twinblade Attack Power",
+    "effect": "Increases Twinblade damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Thrusting Sword Attack Power",
+    "effect": "Increases Thrusting Sword damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Heavy Thrusting Sword Attack Power",
+    "effect": "Increases Heavy Thrusting Sword damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Axe Attack Power",
+    "effect": "Increases Axe damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Greataxe Attack Power",
+    "effect": "Increases Greataxe damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Hammer Attack Power",
+    "effect": "Increases Hammer damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Great Hammer Attack Power",
+    "effect": "Increases Great Hammer damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Flail Attack Power",
+    "effect": "Increases Flail damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Spear Attack Power",
+    "effect": "Increases Spear damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Pike Attack Power",
+    "effect": "Increases Pike damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Great Spear Attack Power",
+    "effect": "Increases Great Spear damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Halberd Attack Power",
+    "effect": "Increases Halberd damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Reaper Attack Power",
+    "effect": "Increases Reaper damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Fist Attack Power",
+    "effect": "Increases Fist damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Claw Attack Power",
+    "effect": "Increases Claw damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Whip Attack Power",
+    "effect": "Increases Whip damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Colossal Weapon Attack Power",
+    "effect": "Increases Colossal Weapon damage by +9%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Bow Attack Power",
+    "effect": "Increases Bow damage by +6%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Dagger Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Straight Sword Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Greatsword Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Colossal Sword Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Curved Sword Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Curved Greatsword Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Katana Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Twinblade Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Thrusting Sword Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Heavy Thrusting Sword Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Axe Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Greataxe Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Hammer Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Great Hammer Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Flail Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Spear Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Pike Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Great Spear Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Halberd Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Reaper Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Fist Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Claw Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Whip Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Colossal Weapon Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Bow Attacks",
+    "effect": "Restores 15 HP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Dagger Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Straight Sword Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Greatsword Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Colossal Sword Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Curved Sword Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Curved Greatsword Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Katana Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Twinblade Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Thrusting Sword Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Heavy Thrusting Sword Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Axe Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Greataxe Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Hammer Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Great Hammer Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Flail Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Spear Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Pike Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Great Spear Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Halberd Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Reaper Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Fist Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Claw Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Whip Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Colossal Weapon Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "FP Restoration upon Bow Attacks",
+    "effect": "Restores 2 FP with each attack with the weapon type.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's sorcery to Magic Glintblade at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's sorcery to Carian Greatsword at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's sorcery to Night Shard at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's sorcery to Magma Shot at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's sorcery to Glintstone Icecrag at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's sorcery to Gravity Well at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's sorcery to Briars of Punishment at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's incantation to Blessing's Boon at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's incantation to Aspects of the Crucible: Horns at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's incantation to Wrath of Gold at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's incantation to Lightning Spear at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's incantation to Lightning Strike at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's incantation to O Flame! at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's incantation to Black Flame at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's incantation to Beast Claw at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's incantation to Swarm of Flies at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Start of game",
+    "description": "Changes compatible armament's incantation to Dragonfire at start of expedition",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "generic_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Physical Attack Up +3",
+    "effect": "Increases physical damage by 10.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Physical Attack Up +4",
+    "effect": "Increases physical damage by 12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Magic Attack Power Up +3",
+    "effect": "Increases magic damage 10.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Magic Attack Power Up +4",
+    "effect": "Increases magic damage 12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Fire Attack Power Up +3",
+    "effect": "Increases fire damage 10.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Fire Attack Power Up +4",
+    "effect": "Increases fire damage 12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Lightning Attack Power Up +3",
+    "effect": "Increases lightning damage 10.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Lightning Attack Power Up +4",
+    "effect": "Increases lightning damage 12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Holy Attack Power Up +3",
+    "effect": "Increases holy damage 10.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Holy Attack Power Up +4",
+    "effect": "Increases holy damage 12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Magic Damage Negation +1",
+    "effect": "Increases magic damage negation by 15%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Magic Damage Negation +2",
+    "effect": "Increases magic damage negation by 16%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Fire Damage Negation +1",
+    "effect": "Increases fire damage negation by 15%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Fire Damage Negation +2",
+    "effect": "Increases fire damage negation by 16%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Lightning Damage Negation +1",
+    "effect": "Increases lightning damage negation by 15%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Lightning Damage Negation +2",
+    "effect": "Increases lightning damage negation by 16%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Holy Damage Negation +1",
+    "effect": "Increases holy damage negation by 15%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Holy Damage Negation +2",
+    "effect": "Increases holy damage negation by 16%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Poison Resistance +1",
+    "effect": "Increases poison status resistance by 110.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Poison Resistance +2",
+    "effect": "Increases poison status resistance by 130.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Blood Loss Resistance +1",
+    "effect": "Increases blood loss status resistance by 110.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Blood Loss Resistance +2",
+    "effect": "Increases blood loss status resistance by 130.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Sleep Resistance +1",
+    "effect": "Increases sleep status resistance by 110.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Sleep Resistance +2",
+    "effect": "Increases sleep status resistance by 130.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Death Blight Resistance +1",
+    "effect": "Increases death blight status resistance by 110.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Death Blight Resistance +2",
+    "effect": "Increases death blight status resistance by 130.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Rot Resistance +1",
+    "effect": "Increases rot status resistance by 110.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Rot Resistance +2",
+    "effect": "Increases rot status resistance by 130.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Frost Resistance +1",
+    "effect": "Increases frost status resistance by 110.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Frost Resistance +2",
+    "effect": "Increases frost status resistance by 130.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Madness Resistance +1",
+    "effect": "Increases madness status resistance by 110.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Madness Resistance +2",
+    "effect": "Increases madness status resistance by 130.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Partial HP Restoration upon Post-Damage Attacks +1",
+    "effect": "After taking damage, dealing damage (within about 4 seconds) restores HP, up to the pale section of your health bar. Increased HP gained per hit by 25% compared to +0. Level +1 and +2 stack, but not with other similiar effects.",
+    "stackable": "Self Custom",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Partial HP Restoration upon Post-Damage Attacks +2",
+    "effect": "After taking damage, dealing damage (within about 4 seconds) restores HP, up to the pale section of your health bar. Increased HP gained per hit by 35% compared to +0. Level +1 and +2 stack, but not with other similiar effects.",
+    "stackable": "Self Custom",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP restored when using medicinal boluses, etc. +1",
+    "effect": "Restores 33 HP from using certain consumables.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP restored when using medicinal boluses, etc. +2",
+    "effect": "Restores 40 HP from using certain consumables.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Successful guarding fills more of the Art gauge +1",
+    "effect": "Fills arg gauge by 1.5 upon blocking an attack.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Critical hits fill more of the Art gauge +1",
+    "effect": "Fills art gauge by 6.5 upon riposte.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Physical attack power increases after using grease items +1",
+    "effect": "Increases physical damage by 17% for 30 seconds after using grease.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Physical attack power increases after using grease items +2",
+    "effect": "Increases physical damage by 20% for 30 seconds after using grease.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Critical Hit Boosts Stamina Recovery Speed +1",
+    "effect": "No description available.",
+    "stackable": "TBD",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Guard Counters +1",
+    "effect": "Increases guard counter damage by 25%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Guard Counters +2",
+    "effect": "Increases guard counter damage by 29%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Throwing Pot Damage +1",
+    "effect": "Increases pot damage by 30%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Throwing Pot Damage +2",
+    "effect": "Increases pot damage by 35%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Throwing Knife Damage +1",
+    "effect": "Increases knife damage by 30%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Throwing Knife Damage +2",
+    "effect": "Increases knife damage by 35%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Glintstone and Gravity Stone Damage +1",
+    "effect": "Increases stone damage by 30%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Glintstone and Gravity Stone Damage +2",
+    "effect": "Increases stone damage by 35%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Perfuming Arts +1",
+    "effect": "Increases Perfuming Arts Damage by +30%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Max HP increased for each great enemy defeated at a Great Church.",
+    "effect": "Increases maximum HP by 5% for each boss killed at a great church.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Runes and Item Discovery increased for each great enemy defeated at a Fort",
+    "effect": "Increases item discovery by 16 and rune gain by 5.5% for each boss killed at a fort.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Arcane increased for each great enemy defeated at a Ruin",
+    "effect": "Increases arcane by 4 for each boss killed at a ruin.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Max stamina increased for each great enemy defeated at a Great Encampment",
+    "effect": "Increases maximum stamina by 7.5% for each boss killed at a camp.",
+    "stackable": "No",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "Defeating enemies fills more of the Art gauge +1",
+    "effect": "Fills art gauge by 6.5 upon killing enemies.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Regen",
+    "description": "HP Restoration upon Thrusting Counterattack +1",
+    "effect": "Restores 3.3% of Max HP on thrusting counterattacks.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attack power up when facing poison-afflicted enemy +1",
+    "effect": "Increases damage by 16% when attacking an enemy suffering from poison.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attack power up when facing poison-afflicted enemy +2",
+    "effect": "Increases damage by 20% when attacking an enemy suffering from poison.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attack power up when facing scarlet rot-afflicted enemy +1",
+    "effect": "Increases damage by 16% when attacking an enemy suffering from scarlet rot.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attack power up when facing scarlet rot-afflicted enemy +2",
+    "effect": "Increases damage by 20% when attacking an enemy suffering from scarlet rot.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attack power up when facing frostbite-afflicted enemy +1",
+    "effect": "Increases damage by 16% when attacking an enemy suffering from frostbite.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Attack power up when facing frostbite-afflicted enemy +2",
+    "effect": "Increases damage by 20% when attacking an enemy suffering from frostbite.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Wylder] Character Skill inflicts Blood Loss",
+    "effect": "Skill inflicts 60 (impact) and 55 (pull) bleed on hit.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Wylder",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Guardian] Character Skill Boosts Damage Negation of Nearby Allies",
+    "effect": "Increases damage negation for self and allies by 12% for 30 seconds after using skill.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Guardian",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Ironeye] Character Skill Inflicts Heavy Poison Damage on Poisoned Enemies",
+    "effect": "Skill deals 0.25% of Max HP + 250 damage on poison-afflicted enemies. Additionally inflicts 70 poison buildup.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Ironeye",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Duchess] Use Character Skill for Brief Invulnerability",
+    "effect": "Makes you immune to damage for 0.4 seconds after using character skill.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Duchess",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Raider] Hit With Character Skill to Reduce Enemy Attack Power",
+    "effect": "Decreases enemy damage dealt by 13% for 13 seconds after hitting them with skill.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Raider",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Revenant] Increased Max FP upon Ability Activation",
+    "effect": "Increases maximum FP by 2% every time passive activates.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Revenant",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Recluse] Collect Affinity Residues to Negate Affinity",
+    "effect": "Increases magic/fire/lightning/holy damage negation by 20% upon absorbing respective residue.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Recluse",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Executor] Slowly Restore HP upon Ability Activation",
+    "effect": "Restores (0.27% of Max HP + 3) HP/s for 30 seconds after passive activates.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Executor",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Scholar] Reduced FP consumption when using Character Skill on self",
+    "effect": "Reduces FP consumption by 15% for 40 seconds when using Character Skill.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Scholar",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Undertaker] Executing Art readies Character Skill",
+    "effect": "No description available.",
+    "stackable": "No",
+    "notes": null,
+    "character": "Undertaker",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Sleep in Vicinity Improves Attack Power",
+    "effect": "When nearby enemy or ally is inflicted with sleep, damage increases by 12% for 20 seconds.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Sleep in Vicinity Improves Attack Power +1",
+    "effect": "When nearby enemy or ally is inflicted with sleep, damage increases by 22% for 20 seconds.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Madness in Vicinity Improves Attack Power",
+    "effect": "When nearby enemy or ally is inflicted with madness, damage increases by 12% for 20 seconds.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Madness in Vicinity Improves Attack Power +1",
+    "effect": "When nearby enemy or ally is inflicted with madness, damage increases by 22% for 20 seconds.",
+    "stackable": "Self Other",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Increased Maximum HP",
+    "effect": "Increases maximum HP by 10%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Increased Maximum FP",
+    "effect": "Increases maximum FP by 15%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Increased Maximum Stamina",
+    "effect": "Increases maximum stamina by 12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Reduced FP Consumption",
+    "effect": "Reduces FP consumption by 8%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Improved Affinity Attack Power",
+    "effect": "Increases magic, fire, lightning, and holy damage by 5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Improved Affinity Attack Power +1",
+    "effect": "Increases magic, fire, lightning, and holy damage by 8%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Improved Affinity Attack Power +2",
+    "effect": "Increases magic, fire, lightning, and holy damage by 10%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Physical Damage Negation +1",
+    "effect": "Increases physical damage negation by 10.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Physical Damage Negation +2",
+    "effect": "Increases physical damage negation by 12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Affinity Damage Negation",
+    "effect": "Increases magic, fire, lightning, and holy damage negation by 6%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Affinity Damage Negation +1",
+    "effect": "Increases magic, fire, lightning, and holy damage negation by 10.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Defensive",
+    "description": "Improved Affinity Damage Negation +2",
+    "effect": "Increases magic, fire, lightning, and holy damage negation by 12%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Sorceries",
+    "effect": "Increases sorcery damage by 5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Sorceries +1",
+    "effect": "Increases sorcery damage by 8.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Sorceries +2",
+    "effect": "Increases sorcery damage by 10%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Incantations",
+    "effect": "Increases incantation damage by 5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Incantations +1",
+    "effect": "Increases incantation damage by 8.5%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Offensive",
+    "description": "Improved Incantations +2",
+    "effect": "Increases incantation damage by 10%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Stat",
+    "description": "Improved Flask HP Restoration",
+    "effect": "Increases HP gained from flasks by 10%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Crimsonspill Crystal Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Crimson Crystal Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Cerulean Crystal Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Speckled Hardtear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Crimson Bubbletear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Opaline Bubbletear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Crimsonburst Crystal Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Greenburst Crystal Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Opaline Hardtear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Thorny Cracked Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Spiked Cracked Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Windy Crystal Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Ruptured Crystal Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Leaden Hardtear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Twiggy Cracked Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Crimsonwhorl Bubbletear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Cerulean Hidden Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Stonebarb Cracked Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Flame-Shrouding Cracked Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Magic-Shrouding Cracked Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Lightning-Shrouding Cracked Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Holy-Shrouding Cracked Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Greenspill Crystal Tear in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Uplifting Aromatic in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Spark Aromatic in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Ironjar Aromatic in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Bloodboil Aromatic in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Poison Spraymist in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Acid Spraymist in possession at start of expedition",
+    "effect": "No description available.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Daggers",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Straight Swords",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Greatswords",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Colossal Swords",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Curved Swords",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Curved Greatswords",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Katana",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Twinblades",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Thrusting Swords",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Heavy Thrusting Swords",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Axes",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Greataxes",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Hammers",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Great Hammers",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Flails",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Spears",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Great Spears",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Halberds",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Reapers",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Fists",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Claws",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Whips",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Colossal Weapons",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Bows",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Greatbows",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Crossbows",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Ballistas",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Small Shields",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Medium Shields",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Greatshields",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Staves",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Sacred Seals",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Exploration",
+    "description": "Dormant Power Helps Discover Torches",
+    "effect": "Increases item discovery for the specified weapon. Only the first of these effects is active.",
+    "stackable": "Self First",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "[Wylder] Improved Mind, Reduced Vigor",
+    "effect": "increases mind by 10 and decreases vigor by 5. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Wylder",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "[Wylder] Improved Intelligence and Faith, Reduced Strength and Dexterity",
+    "effect": "Increases intelligence and faith by 15. Decreases strength by 7 and dexterity by 5. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Wylder",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "[Guardian] Improved Strength and Dexterity, Reduced Vigor",
+    "effect": "Increases strength by 9 and dexterity by 19. Decreases vigor by 8. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Guardian",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "[Guardian] Improved Mind and Faith, Reduced Vigor",
+    "effect": "Increases mind by 8 and faith by 17. Decreases vigor by 6. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Guardian",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "[Ironeye] Improved Arcane, Reduced Dexterity",
+    "effect": "Increases arcane by 15 and decreases dexterity by 9. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Ironeye",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "[Ironeye] Improved Vigor and Strength, Reduced Dexterity",
+    "effect": "Increases vigor by 5 and strength by 20. Decreases dexterity by 13. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Ironeye",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Duchess] Improved Vigor and Strength, Reduced Mind",
+    "effect": "Increases vigor by 3 and strength by 24. Decreases mind by 14. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Duchess",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "[Duchess] Improved Mind and Faith, Reduced Intelligence",
+    "effect": "Increases mind by 3 and faith by 13. Decreases intelligence by 5. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Duchess",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "[Raider] Improved Mind and Intelligence, Reduced Vigor and Endurance",
+    "effect": "increases mind by 9 and intelligence by 35. Decreases vigor by 8 and endurance by 4. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Raider",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "[Raider] Improved Arcane, Reduced Vigor",
+    "effect": "Increases arcane by 17 and decreases vigor by 4. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Raider",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Revenant] Improved Vigor and Endurance, Reduced Mind",
+    "effect": "Increases vigor by 5 and endurance by 5. Decreases mind by 11. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Revenant",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "[Revenant] Improved Strength, Reduced Faith",
+    "effect": "Increases strength by 25. Decreases faith by 6. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Revenant",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "[Recluse] Improved Vigor, Endurance, and Dexterity, Reduced Intelligence and Faith",
+    "effect": "Increases vigor by 4, endurance by 5 and dexterity by 20. Decreases intelligence and faith by 10. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Recluse",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Recluse] Improved Intelligence and Faith, Reduced Mind",
+    "effect": "Increases intelligence and faith by 12. Decreases mind by 13. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Recluse",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Character",
+    "description": "[Executor] Improved Vigor and Endurance, Reduced Arcane",
+    "effect": "Increases vigor by 5 and endurance by 6. Decreases arcane by 13. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Executor",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "[Executor] Improved Dexterity and Arcane, Reduced Vigor",
+    "effect": "Increases dexterity by 9 and arcane by 12. Decreases vigor by 7. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Executor",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "[Scholar] Improved Mind, Reduced Vigor",
+    "effect": "Increases mind by 9. Decreases vigor by 3. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Scholar",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "[Scholar] Improved Endurance and Dexterity, Reduced Intelligence and Arcane",
+    "effect": "Increases endurance by 6 and dexterity by 40. Decreases intelligence by 4 and arcane by 20. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Scholar",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "[Undertaker] Improved Dexterity, Reduced Vigor and Faith",
+    "effect": "Increases dexterity by 19. Decreases vigor by 5 and faith by 13. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Undertaker",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "[Undertaker] Improved Mind and Faith, Reduced Strength",
+    "effect": "Increases mind by 9 and faith by 12. Decreases strength by 15. (At level 12+; scales with lvl)",
+    "stackable": "No",
+    "notes": null,
+    "character": "Undertaker",
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Taking Damage Causes Poison Buildup",
+    "effect": "Taking damage inflicts 65 poison buildup.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Taking Damage Causes Rot Buildup",
+    "effect": "Taking damage inflicts 55 rot buildup.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Taking Damage Causes Frost Buildup",
+    "effect": "Taking damage inflicts 55 frost buildup.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Taking Damage Causes Blood Loss Buildup",
+    "effect": "Taking damage inflicts 55 bleed buildup.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Taking Damage Causes Madness Buildup",
+    "effect": "Taking damage inflicts 50 madness buildup.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Taking Damage Causes Sleep Buildup",
+    "effect": "Taking damage inflicts 50 sleep buildup.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Taking Damage Causes Death Buildup",
+    "effect": "Taking damage inflicts 40 deathblight buildup.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Reduced Strength and Intelligence",
+    "effect": "Decreases strength and intelligence by 3.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Reduced Dexterity and Faith",
+    "effect": "Decreases dexterity and faith by 3.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Reduced Intelligence and Dexterity",
+    "effect": "Decreases dexterity and intelligence by 3.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Reduced Faith and Strength",
+    "effect": "Decreases strength and faith by 3.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Reduced Vigor and Arcane",
+    "effect": "Decreases vigor and arcane by 3.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Reduced Rune Acquisition",
+    "effect": "Decreases rune gain by 10%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Reduced Flask HP Restoration",
+    "effect": "Reduces HP gained from flasks by 15%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Ultimate Art Charging Impaired",
+    "effect": "Decreases ultimate gauge regen while in combat by 15%.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "All Resistances Down",
+    "effect": "Decreases all status resistance by 80.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Continuous HP Loss",
+    "effect": "Decreases HP by 2/s",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Reduced Damage Negation After Evading",
+    "effect": "Decreases damage negations by 45% right after rolling.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Repeated Evasions Lower Damage Negation",
+    "effect": "Decreases damage negations by 35% for 15 seconds on repeat rolls.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Reduced Damage Negation for Flask Usages",
+    "effect": "Decreases damage negations by 45% while using flasks.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Lower Attack When Below Max HP",
+    "effect": "Decreases attack power by 8.5% when below Max HP.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Poison Buildup When Below Max HP",
+    "effect": "Inflicts 3 poison buildup per 0.2s when below Max HP.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Rot Buildup When Below Max HP",
+    "effect": "Inflicts 2 rot buildup per 0.2s when below Max HP.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  },
+  {
+    "category": "Curse",
+    "description": "Near Death Reduces Max HP",
+    "effect": "Reduces maximum HP by 25% for 60 seconds after being downed.",
+    "stackable": "Yes",
+    "notes": null,
+    "character": null,
+    "source": "deep_relic"
+  }
+]
